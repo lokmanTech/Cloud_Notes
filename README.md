@@ -4,8 +4,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 ### Table of content
 |chapter|Description|
 |:-----:|:----------|
-|[ch.01](|
-[ch.01](#ch.01)
+|[ch.01](#ch.01)| Introduction to computing |
 
 ### <a id="ch.01"></a> ch. 01 - Introduction to Computing
 
