@@ -16,3 +16,5 @@ In today's world, we can use technology to extend our activities beyond physical
 - An application is a set of instructions that runs on a computer to perform a specific task.
 - A computer program is written code in a programming language.
 - Computer programs are generally called software.
+
+[![basic_computing_terminology](img/basic_computer_terminology.png)](https://github.com/lokmanTech/cloud_foundations/blob/f0a3ec0987f4d13b7ab4b06c62c6e0999e34e558/img/basic_computer_terminology.png)
