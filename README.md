@@ -17,6 +17,8 @@ In today's world, we can use technology to extend our activities beyond physical
 - A computer program is written code in a programming language.
 - Computer programs are generally called software.
 
-<div style="text-align:center">
-    [![basic_computing_terminology](img/basic_computer_terminology.png)](https://github.com/lokmanTech/cloud_foundations/blob/f0a3ec0987f4d13b7ab4b06c62c6e0999e34e558/img/basic_computer_terminology.png)
-</div>
+<p align="center">
+  <a href="https://github.com/lokmanTech/cloud_foundations/blob/f0a3ec0987f4d13b7ab4b06c62c6e0999e34e558/img/basic_computer_terminology.png">
+    <img src="img/basic_computer_terminology.png" alt="basic_computing_terminology">
+  </a>
+</p>
