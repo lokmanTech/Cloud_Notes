@@ -11,9 +11,11 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 
 *"Technology is not just a tool. It's a part of our lives and shapes our digital world every day."* 
 <p>-Jan Koum, co-founder of WhatsApp.</p>
+
 <br>
 In today's world, we can use technology to extend our activities beyond physical, geographical and time limits. 
 <br>
+
 **Basic computing terminology**
 - An application is a set of instructions that runs on a computer to perform a specific task.
 - A computer program is written code in a programming language.
