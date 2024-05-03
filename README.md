@@ -1,13 +1,14 @@
 # cloud_foundations
 Dive into foundational knowledge spanning cloud, data science and web development.
 
-### Table of content
+### Table of content <a id="top"></a>
 |chapter|Description|
 |:-----:|:----------|
 |[ch.01](#ch.01)| Introduction to computing |
 |[ch.02](#ch.02)| Basic Computing Concepts |
 
-### <a id="ch.01"></a> ch. 01 - Introduction to Computing
+### <a id="ch.01"></a> ch. 01 - Introduction to Computing 
+------------------[to the top ↑](#top)------------------
 
 *"Technology is not just a tool. It's a part of our lives and shapes our digital world every day."* -Jan Koum, co-founder of WhatsApp.
 <br>
@@ -45,6 +46,7 @@ In today's world, we can use technology to extend our activities beyond physical
 In summary, applications, computer and networks run the digital world. An application is a computer program. It is a set of instruction that a computer runs to perform a specific task. A computer's hardware consits of its physical components (as mentioned above) and the software consists of the program that run on it (as mentioned above).
 
 ### <a id="ch.02"></a> ch. 02 - Basic Computing Concepts
+------------------[to the top ↑](#top)------------------
 
 **Servers and data centers**
 <p>What is a server? A server serves as a specialized computer designed to furnish data or services to other computer across a network. Its fundamental role is to respond to requests initiated by client computers, facilitating seamless communication and data exchange. Distinguished by its hardware specifications, servers typically feature expanded memory capacity and support for multiple CPUs, enabling them to handle substantial workloads efficiently. Moreover, they incorporate redundancy mechanism such as duplicate power supplies and network interfaces to ensure continuous operation. Often compact in design, servers are optimized for rack-mounted deployment in data centers. Examples of servers types span various functions, including web servers for hosting websites, database servers for managing data storage and retrieval, and mail servers for facilitating email communication. These exemplify the divers roles serves fulfill in enabling and enhancing networked computing environments.</p>
