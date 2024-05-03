@@ -10,6 +10,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 ### <a id="ch.01"></a> ch. 01 - Introduction to Computing
 
 *"Technology is not just a tool. It's a part of our lives and shapes our digital world every day."* -Jan Koum, co-founder of WhatsApp.
+<br>
 In today's world, we can use technology to extend our activities beyond physical, geographical and time limits. 
 
 **Basic computing terminology**
