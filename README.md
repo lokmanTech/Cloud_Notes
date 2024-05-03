@@ -18,7 +18,6 @@ In today's world, we can use technology to extend our activities beyond physical
 - Computer programs are generally called software.
 
 <p align="center">
-  <a href="https://github.com/lokmanTech/cloud_foundations/blob/f0a3ec0987f4d13b7ab4b06c62c6e0999e34e558/img/basic_computer_terminology.png">
-    <img src="img/basic_computer_terminology.png" alt="basic_computing_terminology">
+  <a> <img src="img/basic_computer_terminology.png" alt="basic_computing_terminology">
   </a>
 </p>
