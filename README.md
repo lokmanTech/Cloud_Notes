@@ -92,4 +92,36 @@ A virtual machine (VM) is a computer that is emulated through software. It is vi
 <br>
 The physical computer where a VM runs is called a host. The VM provides computing capabilities by accessing the physical resources of the host through a software layer, which is called a hypervisor. The hypervisor shares the host’s physical resources—such as its CPU, memory, disk drives, and networking capabilities—among the VMs that run on the host. A VM can run its own operating system, and multiple VMs can run on a single host. With virtualization, you can separate your operating system and applications from the computer’s hardware. Use cases for VMs include virtual desktops, multiple operating support, and cloud computing.
 
+**Benefits of VMs**
 
+1. *Cost Savings*: Running multiple VMs on a single physizal machine reduces the need to buy a new computer.
+2. *Efficiency*: Running multiple VMs on a single physical computer increases its utilization.
+3. *Reusability and portability*: You can copy a VM image on the same physical host or move it to a different host to duplicate the VM's computing environment.
+
+**VMs in the cloud**
+
+Vms are the fundamental unit of computing in the cloud. that provide the folloning;
+1. Self-service.
+2. Ability to pay for only what you use.
+3. Scalability.
+
+<p align="center"><img src="img/eg-vmInTheCloud.png"></p>
+
+#### Software development life cycle
+
+**How Software is developed**
+
+Sofware Development Life Cycle (SDLC)
+<br>
+
+- **Plan**: What is the problem and what resources do you need to solve it?
+The goals of the project are identified along with the resources that are required to implement them. The output of this phase is a *project plan*.
+- **Analyze**: What do you want from a solution?
+Product requirement are clearly defined and documented in a *software requirement specification (SRS)*.
+- **Design**: How will you build what you want?
+  Using SRS, different types of architecture are evaluated for the best use in the project. More than one design approach is created and proposed in a *designed specification document*. The *design specification document* contains detailed functional descriptions and other information, such as user interface descriptinos. The design options are reviewed for risk, budget and time constraints. The best design is then selected.
+  
+- **Develop**: Build what you designed.
+- **Test**: Did you get what you want?
+- **Implement**: Start to use what you built.
+- **Maintain**: Improve what you built.
