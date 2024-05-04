@@ -114,7 +114,7 @@ Vms are the fundamental unit of computing in the cloud. that provide the folloni
 
 **Sofware Development Life Cycle (SDLC)**
 <p align="center"><img src="img/SDLC.png"></p>
-<br>
+
 - **Plan**: What is the problem and what resources do you need to solve it?
 The goals of the project are identified along with the resources that are required to implement them. The output of this phase is a *project plan*.
 - **Analyze**: What do you want from a solution?
