@@ -6,8 +6,9 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |:-----:|:----------|
 |[ch.01](#ch.01)| Introduction to computing |
 |[ch.02](#ch.02)| Basic Computing Concepts |
+|[ch.03](#ch.03)| Development Team Roles |
 
-### <a id="ch.01"></a> ch. 01 - Introduction to Computing 
+## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
 
 *"Technology is not just a tool. It's a part of our lives and shapes our digital world every day."* -Jan Koum, co-founder of WhatsApp.
@@ -45,7 +46,7 @@ In today's world, we can use technology to extend our activities beyond physical
 
 In summary, applications, computer and networks run the digital world. An application is a computer program. It is a set of instruction that a computer runs to perform a specific task. A computer's hardware consits of its physical components (as mentioned above) and the software consists of the program that run on it (as mentioned above).
 
-### <a id="ch.02"></a> ch. 02 - Basic Computing Concepts
+## <a id="ch.02"></a> ch. 02 - Basic Computing Concepts
 ------------------[to the top ↑](#top)------------------
 
 #### Servers and data centers
@@ -111,9 +112,9 @@ Vms are the fundamental unit of computing in the cloud. that provide the folloni
 
 **How Software is developed**
 
-Sofware Development Life Cycle (SDLC)
+**Sofware Development Life Cycle (SDLC)**
+<p align="center"><img src="img/SDLC.png"></p>
 <br>
-
 - **Plan**: What is the problem and what resources do you need to solve it?
 The goals of the project are identified along with the resources that are required to implement them. The output of this phase is a *project plan*.
 - **Analyze**: What do you want from a solution?
@@ -121,7 +122,27 @@ Product requirement are clearly defined and documented in a *software requiremen
 - **Design**: How will you build what you want?
   Using SRS, different types of architecture are evaluated for the best use in the project. More than one design approach is created and proposed in a *designed specification document*. The *design specification document* contains detailed functional descriptions and other information, such as user interface descriptinos. The design options are reviewed for risk, budget and time constraints. The best design is then selected.
   
-- **Develop**: Build what you designed.
-- **Test**: Did you get what you want?
-- **Implement**: Start to use what you built.
-- **Maintain**: Improve what you built.
+- **Develop**: Build what you designed. The actual writing of the computer code happens in this phase, and the product is built.
+- **Test**: Did you get what you want? The purpose of the test phase is to validate that the application components function as intended. This phase is also used to uncover and correct defects before the application is released to users. Common type of testing include the following; a) Unit Test, b) Integration Test, c) Security Test, d) Performance Test
+<br>
+• Unit testing tests individual application components at the program level. The programmer usually does this test.
+• Integration testing tests the combination of multiple application components to verify that they work together correctly.
+• Security testing tests to see whether the application is vulnerable from internal or external threats.
+• Performance testing tests to see whether the application meets its expected performance requirements.
+- **Implement**: Start to use what you built. Implementation is often called deployment. The customer approves and signs off the completion of the application. The application is released and used in production.
+- **Maintain**: Improve what you built. As soon as the application is in production, it must be monitored and maintained. The following are the four general types of application maintenance:
+• Corrective maintenance is used to fix a problem that occurs and for which a solution is identified.
+• Adaptive maintenance is required when something in the application’s runtime environment is going to change. For example, an upgrade is planned for the database software that the application uses.
+• Perfective maintenance occurs when new or revised functionality is identified for the application. For example, the user requests a change in the user interface.
+• Preventive maintenance consists of changes that are made to avoid potential issues in the future. For example, code is redesigned or restructured for easier maintenance.
+<br>
+To simplify how it works as follows:
+– Defect or error identified → Corrective maintenance.
+– Changes in application environment → Adaptive maintenance.
+– Changes in application requirements → Perfective maintenance.
+– Prevent the occurrence of errors → Preventive maintenance.
+
+## <a id="ch.03"></a> ch. 03 - Development Team Roles
+------------------[to the top ↑](#top)------------------
+
+
