@@ -52,3 +52,16 @@ In summary, applications, computer and networks run the digital world. An applic
 <p>What is a server? A server serves as a specialized computer designed to furnish data or services to other computer across a network. Its fundamental role is to respond to requests initiated by client computers, facilitating seamless communication and data exchange. Distinguished by its hardware specifications, servers typically feature expanded memory capacity and support for multiple CPUs, enabling them to handle substantial workloads efficiently. Moreover, they incorporate redundancy mechanism such as duplicate power supplies and network interfaces to ensure continuous operation. Often compact in design, servers are optimized for rack-mounted deployment in data centers. Examples of servers types span various functions, including web servers for hosting websites, database servers for managing data storage and retrieval, and mail servers for facilitating email communication. These exemplify the divers roles serves fulfill in enabling and enhancing networked computing environments.</p>
 
 <p align="center"><img src="img/Client&Server-Eg.png"></p>
+
+Running a web application is an example use case for servers. A web application is typically deployed to a web server, which is responsible for directing client requests to it. A web application usually stores its application data on a database server. The database server runs a special type of software that’s called a database management system (DBMS). The DBMS controls the organization, security, and access of the data.Examples of a DBMS are MySQL, an open-source relational database management system; and Oracle, a relational DBMS that Oracle Corporation owns and offers. The following list shows the flow of information in the example:
+
+1. The user opens a browser on a client machine and enters the address of the web 
+application’s homepage. This address is called its home Uniform Resource Locator 
+(URL) (for example, https://anycompanywebapp.com).
+2. The web server receives the client request and directs it to the appropriate web 
+application.
+3. The web application sends a request to the database server to access its 
+application data.
+4. The database server returns the requested data to the web application.
+5. The web application builds the response webpage and passes it to the web server, 
+which returns the page to the client browser.
