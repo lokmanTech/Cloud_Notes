@@ -181,6 +181,6 @@ To complete the software development lifecycle (SDLC) in a successful and timely
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
 <br>
-*reference: [AWS](https://docs.aws.amazon.com/)*
+*reference: [AWS Documentation](https://docs.aws.amazon.com/)*
 
 
