@@ -124,18 +124,26 @@ Product requirement are clearly defined and documented in a *software requiremen
   
 - **Develop**: Build what you designed. The actual writing of the computer code happens in this phase, and the product is built.
 - **Test**: Did you get what you want? The purpose of the test phase is to validate that the application components function as intended. This phase is also used to uncover and correct defects before the application is released to users. Common type of testing include the following; a) Unit Test, b) Integration Test, c) Security Test, d) Performance Test
+
 <br>
+
 • Unit testing tests individual application components at the program level. The programmer usually does this test.
 • Integration testing tests the combination of multiple application components to verify that they work together correctly.
 • Security testing tests to see whether the application is vulnerable from internal or external threats.
 • Performance testing tests to see whether the application meets its expected performance requirements.
+
 - **Implement**: Start to use what you built. Implementation is often called deployment. The customer approves and signs off the completion of the application. The application is released and used in production.
 - **Maintain**: Improve what you built. As soon as the application is in production, it must be monitored and maintained. The following are the four general types of application maintenance:
+
+<br>
+
 • Corrective maintenance is used to fix a problem that occurs and for which a solution is identified.
 • Adaptive maintenance is required when something in the application’s runtime environment is going to change. For example, an upgrade is planned for the database software that the application uses.
 • Perfective maintenance occurs when new or revised functionality is identified for the application. For example, the user requests a change in the user interface.
 • Preventive maintenance consists of changes that are made to avoid potential issues in the future. For example, code is redesigned or restructured for easier maintenance.
+
 <br>
+
 To simplify how it works as follows:
 – Defect or error identified → Corrective maintenance.
 – Changes in application environment → Adaptive maintenance.
