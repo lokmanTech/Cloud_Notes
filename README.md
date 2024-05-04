@@ -145,10 +145,10 @@ Product requirement are clearly defined and documented in a *software requiremen
 <br>
 
 To simplify how it works as follows:
-– Defect or error identified → Corrective maintenance.
-– Changes in application environment → Adaptive maintenance.
-– Changes in application requirements → Perfective maintenance.
-– Prevent the occurrence of errors → Preventive maintenance.
+1. Defect or error identified → Corrective maintenance.
+2. Changes in application environment → Adaptive maintenance.
+3. Changes in application requirements → Perfective maintenance.
+4. Prevent the occurrence of errors → Preventive maintenance.
 
 ## <a id="ch.03"></a> ch. 03 - Development Team Roles
 ------------------[to the top ↑](#top)------------------
