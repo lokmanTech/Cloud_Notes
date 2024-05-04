@@ -65,3 +65,7 @@ application data.
 4. The database server returns the requested data to the web application.
 5. The web application builds the response webpage and passes it to the web server, 
 which returns the page to the client browser.
+
+**Where does server reside**
+
+Servers reside in a data center. A data center is a physical location that is used to host computer systems and associated components such as networks, storage devices, and power supplies. Data centers are designed to be secure and to provide an ideal climate for the contained equipment to operate. They must protect the equipment from many types of failures and accidents, including power losses and fire.
