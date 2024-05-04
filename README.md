@@ -7,6 +7,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.01](#ch.01)| Introduction to computing |
 |[ch.02](#ch.02)| Basic Computing Concepts |
 |[ch.03](#ch.03)| Development Team Roles |
+|[ch.04](#ch.04)| What is Cloud Computing? |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -144,7 +145,7 @@ Product requirement are clearly defined and documented in a *software requiremen
 
 <br>
 
-To simplify how it works as follows:
+To simplify how maintainance works as follows:
 1. Defect or error identified → Corrective maintenance.
 2. Changes in application environment → Adaptive maintenance.
 3. Changes in application requirements → Perfective maintenance.
@@ -152,5 +153,32 @@ To simplify how it works as follows:
 
 ## <a id="ch.03"></a> ch. 03 - Development Team Roles
 ------------------[to the top ↑](#top)------------------
+
+#### Job titles for development team roles.
+| Project Manager | Analyst | Quality Assurance | Software Developer | Database Administrator |
+
+To complete the software development lifecycle (SDLC) in a successful and timely manner, development often takes place in teams. All team members have specialized roles that are designed to collaborate with each other. Many teams are self-contained, where the team has enough technical expertise to accomplish the SDLC without relying on outside support.
+
+## <a id="ch.04"></a> ch. 04 - What is Cloud Computing?
+------------------[to the top ↑](#top)------------------
+
+#### Understanding Cloud Computing
+- Cloud computing is the on-demand delivery of compute power, database, storage, applications, and other IT resources.
+- These resources are delivered through a cloud services platform through the internet with payas-you-go pricing. In its most basic definition, the cloud is a computer that is located somewhere else, accessed through the internet, and used in some way. Web services is another name for what people call the cloud.
+
+**Cloud Service Models**
+<p align="center"><img src="img/cloudServiceModel.png"></p>
+
+- Cloud services fall into one of three primary categories, which are based mainly on how much control and responsibility you have over the service’s configuration. With infrastructure as a service (IaaS), you manage the server, which can be physical or virtual, and the operating system (Microsoft Windows or Linux). In general, the data center provider has no access to your server.
+- With platform as a service (PaaS), someone else manages the underlying hardware and operating systems. With this option, you can run applications without managing underlying infrastructure (for example, patching, updates, maintenance, hardware, and operating systems). PaaS also provides a framework for developers that they can build on to create customized applications.
+- With software as a service (SaaS), you manage your files while the service provider manages all data centers, servers, networks, storage, maintenance, and patching. You handle only the software and how you want to use it. You are provided with a complete product that the service provider runs and manages. Facebook and Dropbox are examples of SaaS. You manage your Facebook contacts and Dropbox files, and the service providers manage the systems.
+
+**Cloud Service Models: Who Managed What?**
+<p align="center"><img src="img/cloudComputing-responsibility.png"></p>
+
+
+
+
+Created by [Lokman Hakim](https://lokmanTech.github.io)
 
 
