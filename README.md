@@ -86,6 +86,6 @@ The cloud model provides another option: a cloud services provider buys the hard
 
 A virtual machine (VM) is a software-based computer.
 
-<p align="center"><img src="img/virtualization.png"></p>
+<p align="center"><img src="img/eg-virtualization.png"></p>
 
 
