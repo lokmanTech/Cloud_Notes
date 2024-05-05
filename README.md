@@ -185,7 +185,6 @@ A hybrid deployment is a way to connect infrastructure and applications between 
 
 When you run a cloud infrastructure from your own data center, it is called a private or on-premises cloud. Although this kind of deployment lacks many of the benefits of cloud computing, it does provide dedicated resources. It’s a popular choice for of cloud computing, it does provide dedicated resources. of cloud computing, it does provide dedicated resources. It’s a popular choice for organizations that must meet certain compliance standards. In most cases, this deployment model is the same as legacy IT infrastructure, but it uses application management and virtualization to increase resource utilization.
 
-<br>
+
 Created by [Lokman Hakim](https://lokmanTech.github.io)
-<br>
 *reference: [AWS Documentation](https://docs.aws.amazon.com/)*
