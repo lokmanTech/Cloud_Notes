@@ -299,7 +299,7 @@ Your choice of service depends on business goals and technology needs. While EC2
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/https://aws.amazon.com/vmware/)– You have an on-premises server virtualization platform that you want to migrate to AWS.premises server virtualization platform that you want to migrate to AWS.
 
 **Commonly Used Services**
-|
+
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
