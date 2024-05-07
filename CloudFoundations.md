@@ -10,6 +10,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.03](#ch.03)| Development Team Roles |
 |[ch.04](#ch.04)| What is Cloud Computing? |
 |[ch.05](#ch.05)| Advantages of Cloud Computing |
+|[ch.06](#ch.06)| What is AWS? |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -238,6 +239,27 @@ Cloud computing eliminates data center costs and maintenance, allowing focus on 
 
 Deploy globally in AWS Regions with minimal clicks, ensuring low latency and superior customer experience.
 <p align="center"><img src="img/GlobalInMinutes.png"></p>
+
+## <a id="ch.06"></a> ch. 06 - What is AWS?
+------------------[to the top ↑](#top)------------------
+
+**Web Services**
+
+Three models of cloud computing are:
+|Infrastructure As A Service|Platform as A Service|Software as A Service|
+
+`IaaS` lets you manage servers and operating systems. Cloud basics: networking, compute, data storage.
+
+`PaaS` manages hardware and OS, enabling application deployment without infrastructure management. Developers build on customizable frameworks.
+
+`SaaS` providers manage data centers, servers, and maintenance, while users focus on software utilization. Examples include Facebook and Dropbox.
+
+**Comparison: On-premises and AWS infrastructure
+
+<p align="center"><img src="img/ComparisonOnpremise&AWS.png"></p>
+
+
+
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
