@@ -9,6 +9,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.02](#ch.02)| Basic Computing Concepts |
 |[ch.03](#ch.03)| Development Team Roles |
 |[ch.04](#ch.04)| What is Cloud Computing? |
+|[ch.05](#ch.05)| Advantages of Cloud Computing |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -188,6 +189,40 @@ When you run a cloud infrastructure from your own data center, it is called a pr
 
 **Cloud Infrastructure Compared With On-Premises Infrastructure.**
 <p align="center"><img src="img/cloudComputingComparison.png"></p>
+
+## <a id="ch.05"></a> ch. 05 - Advantages of Cloud Computing
+------------------[to the top ↑](#top)------------------
+
+**How does cloud computing benefit you?**
+Cloud computing gives you access to servers, storage, databases, and a broad set of application services over the internet. Cloud storage is a good example of cloud computing. Cloud storage gives you the option to free up memory (space) on your computer or mobile device. Imagine a situation where your mobile device runs out of memory when you want to download and save a new song, photo, or video.
+
+**If you have a business, how can cloud computing benefit your business?**
+Cloud computing or cloud services providers like Amazon Web Services (AWS) provide rapid access to flexible and low-cost IT resources. With cloud computing, you don’t need to make large upfront investments in hardware. As a business owner, you don’t need to purchase a physical location, servers, storage, or databases.
+
+**Why are so many companies interested in moving to the cloud?**
+Companies are moving to the cloud because it presents many benefits including cost savings because you pay only for the resources that you use.
+
+**Fixed Expenses & Variable Expenses**
+| Fixed Expenses | Variable Expenses |
+|:--------------:|:-----------------:|
+|Funds that a company uses to acquire, upgrade, and maintain physical assets, such as property, industrial buildings or equipment.|An expense that the person who bears the cost can alter or avoid.| 
+
+**Massive economies of scale**
+- Because of aggregate usage from  all customers, AWS can achieve higher economies of scale and pass savings on to customers.
+- AwS profit growth --> AWS can reduce costs and increase savings --> customer can get cheaper services.
+
+**Reducing Guessing about capacity**
+Cloud reduces guessing about capacity needs, offering flexible resource access, scaling up or down with minimal notice.
+
+**Increased Speed and agility**
+Cloud enables rapid resource provisioning, reducing time from weeks to minutes, boosting organizational agility with lower costs.
+
+**No more expenses for running and maintaining data centers**
+Cloud computing eliminates data center costs and maintenance, allowing focus on business innovation and customer satisfaction.
+
+**Going global in minutes**
+Deploy globally in AWS Regions with minimal clicks, ensuring low latency and superior customer experience.
+
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
