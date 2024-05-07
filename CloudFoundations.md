@@ -222,7 +222,7 @@ Cloud computing eliminates data center costs and maintenance, allowing focus on 
 
 **Going global in minutes**
 Deploy globally in AWS Regions with minimal clicks, ensuring low latency and superior customer experience.
-
+<p align="center"><img src="img/GlobalInMinutes.png"></p>
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
