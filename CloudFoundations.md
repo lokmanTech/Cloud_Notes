@@ -273,6 +273,34 @@ AWS is a secure cloud services provider with many providers with many different 
 | Machine Learning | Management and Governance | Media Service | Migration and Transfer | Networking and Content Delivery |
 | Quantum Technologies | Robotics | Satellite | Security, Identity, and Compliance | Storage |
 
+**Easy Solution Example**
+
+<p align="center"><img src="img/SolutionExample.png"></p>
+
+AWS, a secure cloud provider, offers scalable services delivered online, granting on-demand access to compute, storage, network, and more.
+
+For instance, in a database app, customer data sent to Amazon EC2 is batched and stored in Amazon S3. Utilize Amazon DynamoDB for nonrelational database needs, potentially within Amazon VPC for network security.
+
+**Choosing a service**
+
+The service that you select depends on your business goals and technology requirements.
+
+<p align="center"><img src="img/ChoosingServices.png"></p>
+
+Your choice of service depends on business goals and technology needs. While EC2 was used in the example, AWS offers various compute options:
+
+- [Amazon EC2](https://aws.amazon.com/ec2/) – You want complete control over your AWS computing resources.
+- [AWS Lambda](https://aws.amazon.com/lambda/) – You want to run your code and not manage or provision servers.
+- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) – You want a service that deploys, manages, and scales your web applications for you.
+- [Amazon Lightsail](https://aws.amazon.com/lightsail/) – You need a lightweight cloud platform for an easy web application.
+- [AWS Batch](https://aws.amazon.com/batch/) – You must run hundreds of thousands of batch workloads.
+- [AWS Outposts](https://aws.amazon.com/outposts/) – You want to run AWS infrastructure in your on-premises data center.
+- [Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/), [Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/eks/), or [AWS Fargate](https://aws.amazon.com/fargate/) – You want to implement a containers or microservices architecture.
+- [VMware Cloud on AWS](https://aws.amazon.com/vmware/https://aws.amazon.com/vmware/)– You have an on-premises server virtualization platform that you want to migrate to AWS.premises server virtualization platform that you want to migrate to AWS.
+
+**Commonly Used Services**
+|
+
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
 <br>
