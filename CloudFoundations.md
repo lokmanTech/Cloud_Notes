@@ -254,12 +254,24 @@ Three models of cloud computing are:
 
 `SaaS` providers manage data centers, servers, and maintenance, while users focus on software utilization. Examples include Facebook and Dropbox.
 
-**Comparison: On-premises and AWS infrastructure
+**Comparison: On-premises and AWS infrastructure**
 
 <p align="center"><img src="img/ComparisonOnpremise&AWS.png"></p>
 
+**What are web services?**
+"A web service is internet-accessible software using XML or JSON for standardized API request and response interactions."
 
+<p align="center"><img src="img/EgOfWebServices.png"></p>
 
+**AWS Services**
+AWS is a secure cloud services provider with many providers with many different services that include solutions for the following:
+
+| Analytics | Applications Integration | AR and VR | AWS Cost Management | Blockchain |
+|:---------:|:------------------------:|:---------:|:-------------------:|:----------:|
+| Business Applications | Compute | Containers | Customer Engagement | Database |
+| Developer Tools | End User Computing | Front End Web and Mobile | Game Tech | Internet of Things |
+| Machine Learning | Management and Governance | Media Service | Migration and Transfer | Networking and Content Delivery |
+| Quantum Technologies | Robotics | Satellite | Security, Identity, and Compliance | Storage |
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
