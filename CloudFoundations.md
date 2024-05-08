@@ -312,14 +312,14 @@ Your choice of service depends on business goals and technology needs. While EC2
 
 **Three (3) Ways to interact with AwS**
 
-AWS Management Console
+1. AWS Management Console
 • The console includes an easier-to-use graphical interface.
 • You can access the console on a [mobile app](https://aws.amazon.com/console/mobile/).
 
-AWS Command Line Interface (AWS CLI)
+2. AWS Command Line Interface (AWS CLI)
 With the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chapwelcome.html), you have access to services by discrete commands or scripts.
 
-AWS Software Development Kits (SDKs)
+3. AWS Software Development Kits (SDKs)
 Access services directly from your code (such as Java, Python, and others).
 
 
