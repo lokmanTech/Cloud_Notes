@@ -309,55 +309,15 @@ Your choice of service depends on business goals and technology needs. While EC2
 |Management and Governance Services:| - Amazon CloudWatch - AWS Trusted Advisor - AWS CloudTrail - AWS Well-Architected Tool - AWS Auto Scaling - AWS Command Line Interface - AWS Config - AWS Management Console - AWS Organizations|
 |AWS Cost Management Services:| - AWS Cost and Usage Report - AWS Budget - AWS Cost Explorer|
 
-|Services|Amazon Services|
-|:------:|:-------------:|
-|Compute Services:| <ul><li>Amazon EC2</li>
-- AWS Lambda
-- AWS Elastic Beanstalk
-- Amazon EC2 Auto Scaling
-- Amazon ECS
-- Amazon EKS
-- Amazon ECR
-- AWS Fargate|
-|Storage Services:| - Amazon S3
-- Amazon S3 Glacier
-- Amazon EFS
-- Amazon EBS|
-|Security, Identity, and Compliance Services:| - IAM
-- Amazon Cognito
-- AWS Shield
-- AWS Artifact
-- AWS KMS|
-|Databases Services:| - Amazon RDS
-- Amazon DynamoDB
-- Amazon Redshift
-- Amazon Aurora|
-|Networking and Content Delivery Services:| - Amazon VPC
-- Amazon Route 53
-- Amazon CloudFront
-- Elastic Load Balancing|
-|Management and Governance Services:| - Amazon CloudWatch
-- AWS Trusted Advisor
-- AWS CloudTrail
-- AWS Well-Architected Tool
-- AWS Auto Scaling
-- AWS Command Line Interface
-- AWS Config
-- AWS Management Console
-- AWS Organizations|
-|AWS Cost Management Services:| - AWS Cost and Usage Report
-- AWS Budget
-- AWS Cost Explorer|
-
-| Services                                     | Amazon Services                                                                                                                                                                                                                                                                                              |
-|:--------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Compute Services:                            | <ul><li>Amazon EC2</li><li>AWS Lambda</li><li>AWS Elastic Beanstalk</li><li>Amazon EC2 Auto Scaling</li><li>Amazon ECS</li><li>Amazon EKS</li><li>Amazon ECR</li><li>AWS Fargate</li></ul>                                                                                                                                                  |
-| Storage Services:                            | <ul><li>Amazon S3</li><li>Amazon S3 Glacier</li><li>Amazon EFS</li><li>Amazon EBS</li></ul>                                                                                                                                                                                                                                       |
-| Security, Identity, and Compliance Services:| <ul><li>IAM</li><li>Amazon Cognito</li><li>AWS Shield</li><li>AWS Artifact</li><li>AWS KMS</li></ul>                                                                                                                                                                                                                                   |
-| Databases Services:                         | <ul><li>Amazon RDS</li><li>Amazon DynamoDB</li><li>Amazon Redshift</li><li>Amazon Aurora</li></ul>                                                                                                                                                                                                                                  |
-| Networking and Content Delivery Services:    | <ul><li>Amazon VPC</li><li>Amazon Route 53</li><li>Amazon CloudFront</li><li>Elastic Load Balancing</li></ul>                                                                                                                                                                                                                       |
-| Management and Governance Services:          | <ul><li>Amazon CloudWatch</li><li>AWS Trusted Advisor</li><li>AWS CloudTrail</li><li>AWS Well-Architected Tool</li><li>AWS Auto Scaling</li><li>AWS Command Line Interface</li><li>AWS Config</li><li>AWS Management Console</li><li>AWS Organizations</li></ul><ul><li>Amazon EC2</li><li>AWS Lambda</li><li>AWS Elastic Beanstalk</li><li>Amazon EC2 Auto Scaling</li><li>Amazon ECS</li><li>Amazon EKS</li><li>Amazon ECR</li><li>AWS Fargate</li></ul>  |
-| AWS Cost Management Services:               | <ul><li>AWS Cost and Usage Report</li><li>AWS Budget</li><li>AWS Cost Explorer</li></ul>                                                                                                                                                                                                                                       |
+| Services | Amazon Services|
+|:--------:|:---------------|
+| Compute Services: | <ul><li>Amazon EC2</li><li>AWS Lambda</li><li>AWS Elastic Beanstalk</li><li>Amazon EC2 Auto Scaling</li><li>Amazon ECS</li><li>Amazon EKS</li><li>Amazon ECR</li><li>AWS Fargate</li></ul> |
+| Storage Services: | <ul><li>Amazon S3</li><li>Amazon S3 Glacier</li><li>Amazon EFS</li><li>Amazon EBS</li></ul> |
+| Security, Identity, and Compliance Services:| <ul><li>IAM</li><li>Amazon Cognito</li><li>AWS Shield</li><li>AWS Artifact</li><li>AWS KMS</li></ul> |
+| Databases Services: | <ul><li>Amazon RDS</li><li>Amazon DynamoDB</li><li>Amazon Redshift</li><li>Amazon Aurora</li></ul> |
+| Networking and Content Delivery Services: | <ul><li>Amazon VPC</li><li>Amazon Route 53</li><li>Amazon CloudFront</li><li>Elastic Load Balancing</li></ul> |
+| Management and Governance Services: | <ul><li>Amazon CloudWatch</li><li>AWS Trusted Advisor</li><li>AWS CloudTrail</li><li>AWS Well-Architected Tool</li><li>AWS Auto Scaling</li><li>AWS Command Line Interface</li><li>AWS Config</li><li>AWS Management Console</li><li>AWS Organizations</li></ul><ul><li>Amazon EC2</li><li>AWS Lambda</li><li>AWS Elastic Beanstalk</li><li>Amazon EC2 Auto Scaling</li><li>Amazon ECS</li><li>Amazon EKS</li><li>Amazon ECR</li><li>AWS Fargate</li></ul>  |
+| AWS Cost Management Services: | <ul><li>AWS Cost and Usage Report</li><li>AWS Budget</li><li>AWS Cost Explorer</li></ul> |
 
 
 
