@@ -299,15 +299,6 @@ Your choice of service depends on business goals and technology needs. While EC2
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/https://aws.amazon.com/vmware/)– You have an on-premises server virtualization platform that you want to migrate to AWS.premises server virtualization platform that you want to migrate to AWS.
 
 **Commonly Used Services**
-|Services|Amazon Services|
-|:------:|:--------------|
-|Compute Services:| -Amazon EC2 - AWS Lambda - AWS Elastic Beanstalk - Amazon EC2 Auto Scaling - Amazon ECS - Amazon EKS - Amazon ECR - AWS Fargate|
-|Storage Services:| - Amazon S3 - Amazon S3 Glacier - Amazon EFS - Amazon EBS|
-|Security, Identity, and Compliance Services:| - IAM - Amazon Cognito - AWS Shield - AWS Artifact - AWS KMS|
-|Databases Services:| - Amazon RDS - Amazon DynamoDB - Amazon Redshift - Amazon Aurora|
-|Networking and Content Delivery Services:| - Amazon VPC - Amazon Route 53 - Amazon CloudFront - Elastic Load Balancing|
-|Management and Governance Services:| - Amazon CloudWatch - AWS Trusted Advisor - AWS CloudTrail - AWS Well-Architected Tool - AWS Auto Scaling - AWS Command Line Interface - AWS Config - AWS Management Console - AWS Organizations|
-|AWS Cost Management Services:| - AWS Cost and Usage Report - AWS Budget - AWS Cost Explorer|
 
 | Services | Amazon Services|
 |:--------:|:---------------|
@@ -319,6 +310,18 @@ Your choice of service depends on business goals and technology needs. While EC2
 | Management and Governance Services: | <ul><li>Amazon CloudWatch</li><li>AWS Trusted Advisor</li><li>AWS CloudTrail</li><li>AWS Well-Architected Tool</li><li>AWS Auto Scaling</li><li>AWS Command Line Interface</li><li>AWS Config</li><li>AWS Management Console</li><li>AWS Organizations</li></ul><ul><li>Amazon EC2</li><li>AWS Lambda</li><li>AWS Elastic Beanstalk</li><li>Amazon EC2 Auto Scaling</li><li>Amazon ECS</li><li>Amazon EKS</li><li>Amazon ECR</li><li>AWS Fargate</li></ul>  |
 | AWS Cost Management Services: | <ul><li>AWS Cost and Usage Report</li><li>AWS Budget</li><li>AWS Cost Explorer</li></ul> |
 
+**Three (3) Ways to interact with AwS**
+
+AWS Management Console
+• The console includes an easier-to-use graphical interface.
+• You can access the console on a [mobile app](https://aws.amazon.com/console/mobile/).
+
+AWS Command Line Interface (AWS CLI)
+With the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chapwelcome.
+html), you have access to services by discrete commands or scripts.
+
+AWS Software Development Kits (SDKs)
+Access services directly from your code (such as Java, Python, and others).
 
 
 
