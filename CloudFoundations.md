@@ -301,7 +301,7 @@ Your choice of service depends on business goals and technology needs. While EC2
 **Commonly Used Services**
 |Services|Amazon Services|
 |:------:|:-------------:|
-|COmpute Services:|- Amazon Ec2
+|Compute Services:| - Amazon EC2
 - AWS Lambda
 - AWS Elastic Beanstalk
 - Amazon EC2 Auto Scaling
@@ -309,35 +309,36 @@ Your choice of service depends on business goals and technology needs. While EC2
 - Amazon EKS
 - Amazon ECR
 - AWS Fargate|
-|Storage Services:|- Amazon S3
+|Storage Services:| - Amazon S3
 - Amazon S3 Glacier
 - Amazon EFS
 - Amazon EBS|
-|Security, Identity, and Compliance Services:|- IAM
+|Security, Identity, and Compliance Services:| - IAM
 - Amazon Cognito
 - AWS Shield
 - AWS Artifact
 - AWS KMS|
-|Databases Services:|- Amazon RDS
+|Databases Services:| - Amazon RDS
 - Amazon DynamoDB
 - Amazon Redshift
 - Amazon Aurora|
-|Networking and Content Delivery Services:|- Amazon VPC
+|Networking and Content Delivery Services:| - Amazon VPC
 - Amazon Route 53
 - Amazon CloudFront
 - Elastic Load Balancing|
-|Management and Governance Services:|- Amazon CloudWatch
+|Management and Governance Services:| - Amazon CloudWatch
 - AWS Trusted Advisor
 - AWS CloudTrail
 - AWS Well-Architected Tool
-- AWS Auto Scalling
+- AWS Auto Scaling
 - AWS Command Line Interface
 - AWS Config
 - AWS Management Console
 - AWS Organizations|
-| AWS Cost Management Services"|- AWS Cost and Usage Report
+|AWS Cost Management Services:| - AWS Cost and Usage Report
 - AWS Budget
 - AWS Cost Explorer|
+
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
