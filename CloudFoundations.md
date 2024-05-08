@@ -11,6 +11,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.04](#ch.04)| What is Cloud Computing? |
 |[ch.05](#ch.05)| Advantages of Cloud Computing |
 |[ch.06](#ch.06)| What is AWS? |
+|[ch.07](#ch.07)| Fundamentals of AWS Pricing |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -322,6 +323,63 @@ With the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chapwelc
 3. AWS Software Development Kits (SDKs)
 Access services directly from your code (such as Java, Python, and others).
 
+
+**AWS Cloud Adoption Framework AWS CAF**
+
+- Guidelines for establishing, developing, and running AWS environments
+- Perspectives in planning, creating, managing, and supporting a modern IT service
+- Structure for business and IT Teamns to work together.
+
+**Six (6) Core Perspectives**
+
+<p align="center"><img src="img/6cores.png"></p>
+
+AWS CAF organizes cloud migration into perspectives: 
+business, people, governance `for business`, and platform, security, operations `for technical` aspects.
+
+**AWS Documentation**
+
+**AWS documentation information**
+- Find user guides, developer guides, API references, tutorials, and more.
+- Technical papers and guides are also available, including these papers, which are recommended reading for
+the AWS Cloud Practitioner exam:
+  1. Overview of Amazon Web Services
+  2. Overview of Architecting for the Cloud: AWS Best Practices
+  3. Overview of How AWS Pricing Works
+  4. Overview of the Total Cost of (Non) Ownership of Web Applications in the Cloud
+
+## <a id="ch.07"></a> ch. 07 - Fundamentals of AWS Pricing
+------------------[to the top ↑](#top)------------------
+
+**AWS Pricing Model**
+
+Three fundamentals drivers of cost with AwS
+|Fundamentals Drivers|Descriptions|
+|:------------------:|:----------:|
+|Compute| Calculated either by the hour or the second & Varies by instance type.|
+|Storage| Charged typicall per GB |
+|Data Transfer| Outbound is aggregated and charged, inbound has no charge (with some exceptions) & Charged typically per GB.|
+
+**How do you pay for AwS?**
+
+- Pay for what you use
+- Pay less when you reserve
+- Pay less when you use more and as AWS grows
+
+For more information about AWS pricing, see How [AWS Pricing](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf) Works
+
+**Pay for what you use**
+
+<p align="center"><img src="img/PayForWhatYouUse.png"></p>
+
+**Pay less when you reserve**
+
+Reserved instances are available in three (3) options:
+1. An all upfront reserved instance (AURI) provides the largest discount.
+2. A partial upfront reserved instance (Puri) provides lower discounts
+3. A No upfront payment reserved instance (NURI) provides smaller discounts
+
+<p align="center"><img src="img/ReserveInstancePackages.png"></p>
 
 
 
