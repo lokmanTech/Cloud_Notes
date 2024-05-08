@@ -299,15 +299,16 @@ Your choice of service depends on business goals and technology needs. While EC2
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/https://aws.amazon.com/vmware/)– You have an on-premises server virtualization platform that you want to migrate to AWS.premises server virtualization platform that you want to migrate to AWS.
 
 **Commonly Used Services**
-| Services                                     | Amazon Services                                                                                                                                                                                                                          |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Compute Services:                            | - Amazon EC2 - AWS Lambda - AWS Elastic Beanstalk - Amazon EC2 Auto Scaling - Amazon ECS - Amazon EKS - Amazon ECR - AWS Fargate                                                                                                          |
-| Storage Services:                            | - Amazon S3 - Amazon S3 Glacier - Amazon EFS - Amazon EBS                                                                                                                                                                                |
-| Security, Identity, and Compliance Services:| - IAM - Amazon Cognito - AWS Shield - AWS Artifact - AWS KMS                                                                                                                                                                             |
-| Databases Services:                         | - Amazon RDS - Amazon DynamoDB - Amazon Redshift - Amazon Aurora                                                                                                                                                                         |
-| Networking and Content Delivery Services:    | - Amazon VPC - Amazon Route 53 - Amazon CloudFront - Elastic Load Balancing                                                                                                                                                              |
-| Management and Governance Services:          | - Amazon CloudWatch - AWS Trusted Advisor - AWS CloudTrail - AWS Well-Architected Tool - AWS Auto Scaling - AWS Command Line Interface - AWS Config - AWS Management Console - AWS Organizations                                                                                                   |
-| AWS Cost Management Services:               | - AWS Cost and Usage Report - AWS Budget - AWS Cost Explorer                                                                                                                                                                             |
+|Services|Amazon Services|
+|:------:|:-------------:|
+|Compute Services:| - Amazon EC2 - AWS Lambda - AWS Elastic Beanstalk - Amazon EC2 Auto Scaling - Amazon ECS - Amazon EKS - Amazon ECR - AWS Fargate|
+|Storage Services:| - Amazon S3 - Amazon S3 Glacier - Amazon EFS - Amazon EBS|
+|Security, Identity, and Compliance Services:| - IAM - Amazon Cognito - AWS Shield - AWS Artifact - AWS KMS|
+|Databases Services:| - Amazon RDS - Amazon DynamoDB - Amazon Redshift - Amazon Aurora|
+|Networking and Content Delivery Services:| - Amazon VPC - Amazon Route 53 - Amazon CloudFront - Elastic Load Balancing|
+|Management and Governance Services:| - Amazon CloudWatch - AWS Trusted Advisor - AWS CloudTrail - AWS Well-Architected Tool - AWS Auto Scaling - AWS Command Line Interface - AWS Config - AWS Management Console - AWS Organizations|
+|AWS Cost Management Services:| - AWS Cost and Usage Report - AWS Budget - AWS Cost Explorer|
+
 
 
 
