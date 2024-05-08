@@ -300,7 +300,7 @@ Your choice of service depends on business goals and technology needs. While EC2
 
 **Commonly Used Services**
 |Services|Amazon Services|
-|:------:|:-------------:|
+|:------:|:--------------|
 |Compute Services:| - Amazon EC2 - AWS Lambda - AWS Elastic Beanstalk - Amazon EC2 Auto Scaling - Amazon ECS - Amazon EKS - Amazon ECR - AWS Fargate|
 |Storage Services:| - Amazon S3 - Amazon S3 Glacier - Amazon EFS - Amazon EBS|
 |Security, Identity, and Compliance Services:| - IAM - Amazon Cognito - AWS Shield - AWS Artifact - AWS KMS|
