@@ -307,28 +307,28 @@ Your choice of service depends on business goals and technology needs. While EC2
 - Amazon ECS
 - Amazon EKS
 - Amazon ECR
-- AWS Fargate
+- AWS Fargate|
 |Storage Services:|
 - Amazon S3
 - Amazon S3 Glacier
 - Amazon EFS
-- Amazon EBS
+- Amazon EBS|
 |Security, Identity, and Compliance Services:|
 - IAM
 - Amazon Cognito
 - AWS Shield
 - AWS Artifact
-- AWS KMS
+- AWS KMS|
 |Databases Services:|
 - Amazon RDS
 - Amazon DynamoDB
 - Amazon Redshift
-- Amazon Aurora
+- Amazon Aurora|
 |Networking and Content Delivery Services:|
 - Amazon VPC
 - Amazon Route 53
 - Amazon CloudFront
-- Elastic Load Balancing
+- Elastic Load Balancing|
 |Management and Governance Services:|
 - Amazon CloudWatch
 - AWS Trusted Advisor
@@ -338,7 +338,7 @@ Your choice of service depends on business goals and technology needs. While EC2
 - AWS Command Line Interface
 - AWS Config
 - AWS Management Console
-- AWS Organizations
+- AWS Organizations|
 | AWS Cost Management Services"|
 - AWS Cost and Usage Report
 - AWS Budget
