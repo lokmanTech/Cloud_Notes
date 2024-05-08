@@ -317,8 +317,7 @@ AWS Management Console
 • You can access the console on a [mobile app](https://aws.amazon.com/console/mobile/).
 
 AWS Command Line Interface (AWS CLI)
-With the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chapwelcome.
-html), you have access to services by discrete commands or scripts.
+With the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chapwelcome.html), you have access to services by discrete commands or scripts.
 
 AWS Software Development Kits (SDKs)
 Access services directly from your code (such as Java, Python, and others).
