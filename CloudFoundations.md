@@ -446,10 +446,7 @@ TCO is a financial estimate to help identify direct and indirect costs of a syst
 
 |TCO Considerations|Descriptions|
 |:----------------:|:----------:|
-|Server Costs| - `Hardware`: Server, rack chassis, power distribution units, top-of-rack switches (and maintenance)
-- `Software`: Operating system (OS), virtualization licenses (and maintenance)
-- `Facilities cost`: Space Power, Cooling|
-- 
+|Server Costs| - `Software`: Operating system (OS), virtualization licenses (and maintenance)</li><li>`Software`: Operating system (OS), virtualization licenses (and maintenance)</li><li>`Facilities cost`: Space Power, Cooling</li></ul>|
 
 
 
