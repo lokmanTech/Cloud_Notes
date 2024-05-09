@@ -381,6 +381,51 @@ Reserved instances are available in three (3) options:
 
 <p align="center"><img src="img/ReserveInstancePackages.png"></p>
 
+**Pay less by using more**
+
+Realize volume0based discounts:
+- Save more as usage increases
+- Services like Amazon Simple Storage Service (Amazon S3), Amazon Elastic Block Store (Amazon EBS) or Amazon Elastic File System (Amazon EFS) have tiered pricing. The more you use, the less you pay per GB.
+- Multiple  storage services deliver lower storage costs based on needs.
+
+**Pay less as AWS grows**
+
+• As AWS grows, AWS focuses on lowering the cost of doing business.
+• This practice results in AWS passing savings from economies of scale to you.
+• Since 2006, AWS has lowered pricing more than 75 times and continues to do so
+• Future higher-performing resources replace current resources for no extra charge.
+
+**Custom pricing**
+
+• Meets varying needs through custom pricing
+• Is available for high-volume projects with unique requirements
+
+**[AWS Free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)**
+
+You can use the AWS Free Tier to gaini hands-on experience with the AWS Cloud, products and services at no charge. This tier is available for 1 year to new customers.
+1. Sign un for an AWS account
+2. Learn with 10 minutes tutorials
+3. Start building with AWS
+
+**Services with no charge**
+- `Amazon Virtual Private Cloud (Amazon VPC)`: You can provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
+- `AWS Elastic Beanstalk`: With this service, you can quickly deploy and manage applications in the AWS Cloud.
+- `Amazon EC2 Auto Scaling`: This service automatically adds or removes resources according to conditions that you define. The resources that you are using increase seamlessly during demand spikes to maintain performance and decrease automatically during demand lulls to minimize costs.
+- `AWS CloudFormation`:Developers and systems administrators can use this service to create a collection of related AWS resources and provision them in an orderly and predictable fashion.
+- `AWS Identity and Access Management (IAM)`: You can use this service to control your users’ access to AWS services and resources. Consolidated Billing – You can use this billing feature in the AWS Organizations service to consolidate payment for multiple AWS accounts. Consolidated Billing provides the following: 1. One bill for multiple accounts, 2. The ability to track each account’s charges, 3. The opportunity to decrease charges because of volume pricing discounts from combined usage & 4. The ability to consolidate all of your accounts by using Consolidated Billing and get tiered benefits
+- `AWS OpsWorks`: You can use this application management service to deploy and operate applications of all shapes and sizes.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
