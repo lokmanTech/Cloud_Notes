@@ -412,8 +412,31 @@ You can use the AWS Free Tier to gaini hands-on experience with the AWS Cloud, p
 - `AWS Elastic Beanstalk`: With this service, you can quickly deploy and manage applications in the AWS Cloud.
 - `Amazon EC2 Auto Scaling`: This service automatically adds or removes resources according to conditions that you define. The resources that you are using increase seamlessly during demand spikes to maintain performance and decrease automatically during demand lulls to minimize costs.
 - `AWS CloudFormation`:Developers and systems administrators can use this service to create a collection of related AWS resources and provision them in an orderly and predictable fashion.
-- `AWS Identity and Access Management (IAM)`: You can use this service to control your users’ access to AWS services and resources. Consolidated Billing – You can use this billing feature in the AWS Organizations service to consolidate payment for multiple AWS accounts. Consolidated Billing provides the following: 1. One bill for multiple accounts, 2. The ability to track each account’s charges, 3. The opportunity to decrease charges because of volume pricing discounts from combined usage & 4. The ability to consolidate all of your accounts by using Consolidated Billing and get tiered benefits
+- `AWS Identity and Access Management (IAM)`: You can use this service to control your users’ access to AWS services and resources.
+- `Consolidated Billing`: You can use this billing feature in the AWS Organizations service to consolidate payment for multiple AWS accounts. Consolidated Billing provides the following:
+1. One bill for multiple accounts
+2. The ability to track each account’s charges
+3. The opportunity to decrease charges because of volume pricing discounts from combined usage
+4. The ability to consolidate all of your accounts by using Consolidated Billing and get tiered benefits
 - `AWS OpsWorks`: You can use this application management service to deploy and operate applications of all shapes and sizes.
+
+**[AWS Pricing Calculator](https://calculator.aws/#/)**
+
+You can use the AWS Pricing Calculator to do the following:
+• Estimate monthly costs.
+• Identify opportunities to reduce monthly costs.
+• Use templates to compare services and deployment models.
+
+**Total Cost of Ownership**
+
+|On-Premises Infrastrusture versus the cloud|
+|Traditional Infrastructure|Cloud|
+|:------------------------:|:---:|
+|Required Equiment to use| Pay for what you use & w/o equipment|
+|Facilities Contracts|Self-service infrastructure|
+|Required IT resource and administration|With less focus on infra, team can focus on improve time to market|
+|The cost of scaling up|Scale up and down with ease|
+
 
 
 
