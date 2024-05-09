@@ -429,7 +429,7 @@ You can use the AWS Pricing Calculator to do the following:
 
 **Total Cost of Ownership**
 
-|On-Premises Infrastrusture versus the cloud|
+**On-Premises Infrastrusture versus the cloud**
 |Traditional Infrastructure|Cloud|
 |:------------------------:|:---:|
 |Required Equiment to use| Pay for what you use & w/o equipment|
@@ -437,6 +437,19 @@ You can use the AWS Pricing Calculator to do the following:
 |Required IT resource and administration|With less focus on infra, team can focus on improve time to market|
 |The cost of scaling up|Scale up and down with ease|
 
+**Total cost of ownership (TCO) defined**
+TCO is a financial estimate to help identify direct and indirect costs of a system. Use TCO to do the following:
+• Compare the costs of running an entire infrastructure environment or specific workload on premises as compared to the AWS Cloud.
+• Budget and build the business case for moving to the cloud.
+
+**TCO Considerations**
+
+|TCO Considerations|Descriptions|
+|:----------------:|:----------:|
+|Server Costs| - `Hardware`: Server, rack chassis, power distribution units, top-of-rack switches (and maintenance)
+- `Software`: Operating system (OS), virtualization licenses (and maintenance)
+- `Facilities cost`: Space Power, Cooling|
+- 
 
 
 
