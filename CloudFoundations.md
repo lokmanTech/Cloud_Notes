@@ -12,6 +12,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.05](#ch.05)| Advantages of Cloud Computing |
 |[ch.06](#ch.06)| What is AWS? |
 |[ch.07](#ch.07)| Fundamentals of AWS Pricing |
+|[ch.08](#ch.08)| AWS Infrastructure Overview |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -450,6 +451,19 @@ TCO is a financial estimate to help identify direct and indirect costs of a syst
 |Storage costs|<li>`Hardware`: Storage disks, storage area network or fiber channel switches</li><li>Storage administration costs</li><li>`Facilities cost`: Space Power, Cooling</li></ul>|
 |Network costs|<li>`Network hardware`: Local area network switches, load balancer bandwidth costs</li><li>Network administration costs</li><li>`Facilities cost`: Space Power, Cooling</li></ul>|
 |IT labor costs|Server administration costs|
+
+## <a id="ch.08"></a> ch. 08 - AWS Infrastructure Overview 
+------------------[to the top ↑](#top)------------------
+
+**AWS Global Infrastructure**
+
+The AWS Global Infrastructure is designed and built to deliver a `flexible`, `reliable`, `scalable` and secure cloud computing environment with high-quality global network performance.
+
+<p align="center"><img src="img/AWSGlobalNetwork.png"></p>
+
+for more info, visit [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0) page.
+
+
 
 
 
