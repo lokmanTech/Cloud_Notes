@@ -463,7 +463,24 @@ The AWS Global Infrastructure is designed and built to deliver a `flexible`, `re
 
 for more info, visit [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0) page.
 
+**AWS Global Infrastructure Elements**
 
+Regions, Availability Zones, and PoPs
+
+<p align="center"><img src="img/AWSInfraElements.png"></p>
+
+**[AWS Data Centers](https://aws.amazon.com/compliance/data-center/)**
+
+The Foundation for the AWS infrastructure is the data centers.
+
+Data centers usually have specific characteristic, such as the following:
+- They are a location where the actual physical data resides and data processing occurs.
+- They house physical servers (typically 50,000 to 80,000 servers)
+- They are online. (All data centers are online & Not data center is cold (or not being used)).
+
+Also, data centers contain AWS custom network equipment, such as the following:
+- Multi-original design manufacturer (ODM) sourced hardware.
+- Amazon custom network protocol stack.
 
 
 
