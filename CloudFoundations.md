@@ -482,6 +482,13 @@ Also, data centers contain AWS custom network equipment, such as the following:
 - Multi-original design manufacturer (ODM) sourced hardware.
 - Amazon custom network protocol stack.
 
+**AWS Availability Zones**
+- Each Availability Zone is made up of one or more data centers.
+- Availability Zones are designed for fault isolation.
+- Availability Zones are interconnected with other Availability Zones by using high-speed private links.
+- You choose your Availability Zones.
+- AWS recommends replicating across Availability Zones for resiliency.
+
 
 
 
