@@ -489,6 +489,48 @@ Also, data centers contain AWS custom network equipment, such as the following:
 - You choose your Availability Zones.
 - AWS recommends replicating across Availability Zones for resiliency.
 
+**AWS Regions**
+
+- An AWS Region is a geographical area.
+- Each Region is made up of two or more Availability Zones.
+- AWS has 24 Regions worldwide.
+- You activate an control data replication across Regions.
+- Communication between Region uses AWS backbone network connections infrastructure
+
+<p align="center"><img src="img/DataCenterInAvailabilityZone.png"></p>
+
+AWS Regions, isolated for fault tolerance, contain multiple Availability Zones. Data stored in a Region isn't replicated outside it. Users choose Regions based on compliance and latency needs.
+
+**Selecting a Region**
+
+- Data governance and legal requirements
+- Proximity to customers (latency)
+- Services available within the Region
+- Costs (vary by Region)
+
+Consider factors like data governance, legal requirements, latency reduction, service availability, and cost when choosing AWS Regions for data storage and services to optimize performance and compliance.
+
+Check location latency: [CloudPing](https://www.cloudping.info/)
+
+**Points of presence (PoP)**
+
+AWS provides a global network of 216 PoP locations
+
+- The PoPs consist of 205 edge locations and 11 Regional edge caches.
+- PoPs are used with Amazon CloudFront, a global content delivery network (CDN) that delivers content to end users with reduced latency.
+- Regional edge caches are used for content with infrequent access.
+
+<p align="center"><img src="img/PointOfPresence.png"></p>
+
+AWS Point of Presence (PoP) serves users through Amazon CloudFront or Route 53. With 216 PoPs globally, including 205 edge locations and 11 Regional edge caches, it optimizes content delivery and DNS resolution, reducing latency. Regional edge caches complement CloudFront by storing less-accessed content, enhancing performance.
+
+**AWS Infrastructure Features**
+
+|Features|Descriptions|
+|:------:|:----------:|
+|Elastic and scalable|<ul><li>Elastic infrastructure that dynamic adapts to capacity</li><li>Scalable infrastructure that adjusts to accommodate growth</li></ul>|
+|Fault-tolerant|<ul><li>Continues operating properly in the presence of a failure</li><li>Includes built-in redundancy of components</li></ul>|
+|Highly available|- High level of operational performance with reduced downtime.|
 
 
 
