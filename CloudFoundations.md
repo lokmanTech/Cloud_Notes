@@ -13,6 +13,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.06](#ch.06)| What is AWS? |
 |[ch.07](#ch.07)| Fundamentals of AWS Pricing |
 |[ch.08](#ch.08)| AWS Infrastructure Overview |
+|[ch.09](#ch.09)| AWS Services and Service Categories |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -530,8 +531,11 @@ AWS Point of Presence (PoP) serves users through Amazon CloudFront or Route 53. 
 |:------:|:----------:|
 |Elastic and scalable|<ul><li>Elastic infrastructure that dynamic adapts to capacity</li><li>Scalable infrastructure that adjusts to accommodate growth</li></ul>|
 |Fault-tolerant|<ul><li>Continues operating properly in the presence of a failure</li><li>Includes built-in redundancy of components</li></ul>|
-|Highly available|- High level of operational performance with reduced downtime.|
+|Highly available|<ul><li>High level of operational performance with reduced downtime.</li></ul>|
 
+<p align="center"><img src="img/AWSInfraFeatures.png"></p>
+
+AWS infrastructure revolves around Regions housing multiple isolated Availability Zones (AZs). Each AZ comprises data centers with redundant networking and infrastructure for fault tolerance, elasticity, scalability, and high availability, requiring minimal human intervention for operation.
 
 
 
