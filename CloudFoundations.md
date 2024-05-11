@@ -537,6 +537,44 @@ AWS Point of Presence (PoP) serves users through Amazon CloudFront or Route 53. 
 
 AWS infrastructure revolves around Regions housing multiple isolated Availability Zones (AZs). Each AZ comprises data centers with redundant networking and infrastructure for fault tolerance, elasticity, scalability, and high availability, requiring minimal human intervention for operation.
 
+**AWS Service Categories**
+
+Top Categories and Products
+
+**Storage Service Category**
+
+|**AWS Storage Services**|
+|:----------------------:|
+|Amazon Simple Storage Service (Amazon S3)|
+|Amazon Elastic Block Store (Amazon EBS)|
+|Amazon Elastic File System (Amazon EFS)|
+|Amazon Simple Storage Service Glacier|
+
+`Amazon Simple Storage Service (Amazon S3)` is an object storage service that offers scalability, data availability, security, and performance. Use it to store and protect any amount of data for websites and mobile apps. It is also used for backup and restore, archive, enterprise applications, Internet of Things (IoT) devices, and big data analytics.
+
+`Amazon Elastic Block Store (Amazon EBS)` is high-performance block storage that is designed for use with Amazon EC2 for both throughput-intensive and transaction-intensive workloads. It is used for various workloads, such as relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows.
+
+`Amazon Elastic File System (Amazon EFS)` provides a scalable, fully managed elastic Network File System (NFS) file system for AWS Cloud services and on-premises resources. It is built to scale on demand to petabytes, growing and shrinking automatically as you add and remove files. Using Amazon EFS reduces the need to provision and manage capacity to accommodate growth.
+
+`Amazon Simple Storage Service Glacier` is a secure, durable, and low-cost Amazon S3 cloud storage class for data archiving and long-term backup. It is designed to deliver 11 9s (99.999999999 percent) of durability and to provide comprehensive security and compliance capabilities to meet stringent regulatory requirements.
+
+|**AWS Compute Services**|
+|:----------------------:|
+|Amazon Elastic Cloud (Amazon EC2)|
+|Amazon EC2 Auto Scaling|
+|Amazon Elastic Beanstalk|
+|Amazon Lambda|
+
+`Amazon Elastic Compute Cloud (Amazon EC2)` provides resizable compute capacity as virtual machines in the cloud.
+
+`Amazon EC2 Auto Scaling` gives you the ability to automatically add or remove EC2 instances according to conditions that you define.
+
+`AWS Elastic Beanstalk` is a service for deploying and scaling web applications and services. It deploys them on familiar servers such as Apache HTTP Server and Microsoft Internet Information Services (IIS).
+
+`AWS Lambda` gives you the ability to run code without provisioning or managing servers. You pay for only the compute time that you consume, so you won’t be charged when your code isn’t running.
+
+
+
 
 
 
