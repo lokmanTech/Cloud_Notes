@@ -28,7 +28,7 @@ In today's world, we can use technology to extend our activities beyond physical
 - A computer program is written code in a programming language.
 - Computer programs are generally called software.
 
-<p align="center"><img src="img/basic_computer_terminology.png"></p>
+<p align="center"><img src="img/CloudFoundations/basic_computer_terminology.png"></p>
 
 **Type of applications**
 *Application run on different types of devices and are accessed in different ways.*
@@ -59,7 +59,7 @@ In summary, applications, computer and networks run the digital world. An applic
 #### Servers and data centers
 <p>What is a server? A server serves as a specialized computer designed to furnish data or services to other computer across a network. Its fundamental role is to respond to requests initiated by client computers, facilitating seamless communication and data exchange. Distinguished by its hardware specifications, servers typically feature expanded memory capacity and support for multiple CPUs, enabling them to handle substantial workloads efficiently. Moreover, they incorporate redundancy mechanism such as duplicate power supplies and network interfaces to ensure continuous operation. Often compact in design, servers are optimized for rack-mounted deployment in data centers. Examples of servers types span various functions, including web servers for hosting websites, database servers for managing data storage and retrieval, and mail servers for facilitating email communication. These exemplify the divers roles serves fulfill in enabling and enhancing networked computing environments.</p>
 
-<p align="center"><img src="img/Client&Server-Eg.png"></p>
+<p align="center"><img src="img/CloudFoundations/Client&Server-Eg.png"></p>
 
 Running a web application is an example use case for servers. A web application is typically deployed to a web server, which is responsible for directing client requests to it. A web application usually stores its application data on a database server. The database server runs a special type of software that’s called a database management system (DBMS). The DBMS controls the organization, security, and access of the data.Examples of a DBMS are MySQL, an open-source relational database management system; and Oracle, a relational DBMS that Oracle Corporation owns and offers. The following list shows the flow of information in the example:
 
@@ -94,7 +94,7 @@ The cloud model provides another option: a cloud services provider buys the hard
 
 A virtual machine (VM) is a software-based computer.
 
-<p align="center"><img src="img/eg-virtualization.png"></p>
+<p align="center"><img src="img/CloudFoundations/eg-virtualization.png"></p>
 
 A virtual machine (VM) is a computer that is emulated through software. It is virtual because it is not a physical computer. Instead, specialized software, which is called virtualization software, runs inside a physical computer to provide the computing capabilities of a VM. In other words, a VM is a software-based computer that runs inside a physical computer.
 <br>
@@ -113,14 +113,14 @@ Vms are the fundamental unit of computing in the cloud. that provide the folloni
 2. Ability to pay for only what you use.
 3. Scalability.
 
-<p align="center"><img src="img/eg-vmInTheCloud.png"></p>
+<p align="center"><img src="img/CloudFoundations/eg-vmInTheCloud.png"></p>
 
 #### Software development life cycle
 
 **How Software is developed**
 
 **Sofware Development Life Cycle (SDLC)**
-<p align="center"><img src="img/SDLC.png"></p>
+<p align="center"><img src="img/CloudFoundations/SDLC.png"></p>
 
 - **Plan**: What is the problem and what resources do you need to solve it?
 The goals of the project are identified along with the resources that are required to implement them. The output of this phase is a *project plan*.
@@ -173,17 +173,17 @@ To complete the software development lifecycle (SDLC) in a successful and timely
 - These resources are delivered through a cloud services platform through the internet with payas-you-go pricing. In its most basic definition, the cloud is a computer that is located somewhere else, accessed through the internet, and used in some way. Web services is another name for what people call the cloud.
 
 **Cloud Service Models**
-<p align="center"><img src="img/cloudServiceModel.png"></p>
+<p align="center"><img src="img/CloudFoundations/cloudServiceModel.png"></p>
 
 - Cloud services fall into one of three primary categories, which are based mainly on how much control and responsibility you have over the service’s configuration. With infrastructure as a service (IaaS), you manage the server, which can be physical or virtual, and the operating system (Microsoft Windows or Linux). In general, the data center provider has no access to your server.
 - With platform as a service (PaaS), someone else manages the underlying hardware and operating systems. With this option, you can run applications without managing underlying infrastructure (for example, patching, updates, maintenance, hardware, and operating systems). PaaS also provides a framework for developers that they can build on to create customized applications.
 - With software as a service (SaaS), you manage your files while the service provider manages all data centers, servers, networks, storage, maintenance, and patching. You handle only the software and how you want to use it. You are provided with a complete product that the service provider runs and manages. Facebook and Dropbox are examples of SaaS. You manage your Facebook contacts and Dropbox files, and the service providers manage the systems.
 
 **Cloud Service Models: Who Managed What?**
-<p align="center"><img src="img/cloudComputing-responsibility.png"></p>
+<p align="center"><img src="img/CloudFoundations/cloudComputing-responsibility.png"></p>
 
 **Cloud Computing Deployment Models**
-<p align="center"><img src="img/TypeOfCloudDeployment.png"></p>
+<p align="center"><img src="img/CloudFoundations/TypeOfCloudDeployment.png"></p>
 
 <b>Cloud (or all-in cloud)</b> is a cloud-based application that is fully deployed in the cloud. All parts of the application run in the cloud. Applications in the cloud were either created in the cloud or migrated from an existing infrastructure. Cloud-based applications can be built on low-level infrastructure pieces (for example, networking, compute, or storage). They can also use higher-level services that provide abstraction from the management, architecting, and scaling requirements of core infrastructure.
 
@@ -192,7 +192,7 @@ A hybrid deployment is a way to connect infrastructure and applications between 
 When you run a cloud infrastructure from your own data center, it is called a private or on-premises cloud. Although this kind of deployment lacks many of the benefits of cloud computing, it does provide dedicated resources. It’s a popular choice for of cloud computing, it does provide dedicated resources. of cloud computing, it does provide dedicated resources. It’s a popular choice for organizations that must meet certain compliance standards. In most cases, this deployment model is the same as legacy IT infrastructure, but it uses application management and virtualization to increase resource utilization.
 
 **Cloud Infrastructure Compared With On-Premises Infrastructure.**
-<p align="center"><img src="img/cloudComputingComparison.png"></p>
+<p align="center"><img src="img/CloudFoundations/cloudComputingComparison.png"></p>
 
 ## <a id="ch.05"></a> ch. 05 - Advantages of Cloud Computing
 ------------------[to the top ↑](#top)------------------
@@ -241,7 +241,7 @@ Cloud computing eliminates data center costs and maintenance, allowing focus on 
 **Going global in minutes**
 
 Deploy globally in AWS Regions with minimal clicks, ensuring low latency and superior customer experience.
-<p align="center"><img src="img/GlobalInMinutes.png"></p>
+<p align="center"><img src="img/CloudFoundations/GlobalInMinutes.png"></p>
 
 ## <a id="ch.06"></a> ch. 06 - What is AWS?
 ------------------[to the top ↑](#top)------------------
@@ -259,12 +259,12 @@ Three models of cloud computing are:
 
 **Comparison: On-premises and AWS infrastructure**
 
-<p align="center"><img src="img/ComparisonOnpremise&AWS.png"></p>
+<p align="center"><img src="img/CloudFoundations/ComparisonOnpremise&AWS.png"></p>
 
 **What are web services?**
 "A web service is internet-accessible software using XML or JSON for standardized API request and response interactions."
 
-<p align="center"><img src="img/EgOfWebServices.png"></p>
+<p align="center"><img src="img/CloudFoundations/EgOfWebServices.png"></p>
 
 **AWS Services**
 AWS is a secure cloud services provider with many providers with many different services that include solutions for the following:
@@ -278,7 +278,7 @@ AWS is a secure cloud services provider with many providers with many different 
 
 **Easy Solution Example**
 
-<p align="center"><img src="img/SolutionExample.png"></p>
+<p align="center"><img src="img/CloudFoundations/SolutionExample.png"></p>
 
 AWS, a secure cloud provider, offers scalable services delivered online, granting on-demand access to compute, storage, network, and more.
 
@@ -288,7 +288,7 @@ For instance, in a database app, customer data sent to Amazon EC2 is batched and
 
 The service that you select depends on your business goals and technology requirements.
 
-<p align="center"><img src="img/ChoosingServices.png"></p>
+<p align="center"><img src="img/CloudFoundations/ChoosingServices.png"></p>
 
 Your choice of service depends on business goals and technology needs. While EC2 was used in the example, AWS offers various compute options:
 
@@ -334,7 +334,7 @@ Access services directly from your code (such as Java, Python, and others).
 
 **Six (6) Core Perspectives**
 
-<p align="center"><img src="img/6cores.png"></p>
+<p align="center"><img src="img/CloudFoundations/6cores.png"></p>
 
 AWS CAF organizes cloud migration into perspectives: 
 business, people, governance `for business`, and platform, security, operations `for technical` aspects.
@@ -372,7 +372,7 @@ For more information about AWS pricing, see How [AWS Pricing](https://d0.awsstat
 
 **Pay for what you use**
 
-<p align="center"><img src="img/PayForWhatYouUse.png"></p>
+<p align="center"><img src="img/CloudFoundations/PayForWhatYouUse.png"></p>
 
 **Pay less when you reserve**
 
@@ -381,7 +381,7 @@ Reserved instances are available in three (3) options:
 2. A partial upfront reserved instance (Puri) provides lower discounts
 3. A No upfront payment reserved instance (NURI) provides smaller discounts
 
-<p align="center"><img src="img/ReserveInstancePackages.png"></p>
+<p align="center"><img src="img/CloudFoundations/ReserveInstancePackages.png"></p>
 
 **Pay less by using more**
 
@@ -460,7 +460,7 @@ TCO is a financial estimate to help identify direct and indirect costs of a syst
 
 The AWS Global Infrastructure is designed and built to deliver a `flexible`, `reliable`, `scalable` and secure cloud computing environment with high-quality global network performance.
 
-<p align="center"><img src="img/AWSGlobalNetwork.png"></p>
+<p align="center"><img src="img/CloudFoundations/AWSGlobalNetwork.png"></p>
 
 for more info, visit [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0) page.
 
@@ -468,7 +468,7 @@ for more info, visit [AWS Global Infrastructure](https://aws.amazon.com/about-aw
 
 Regions, Availability Zones, and PoPs
 
-<p align="center"><img src="img/AWSInfraElements.png"></p>
+<p align="center"><img src="img/CloudFoundations/AWSInfraElements.png"></p>
 
 **[AWS Data Centers](https://aws.amazon.com/compliance/data-center/)**
 
@@ -498,7 +498,7 @@ Also, data centers contain AWS custom network equipment, such as the following:
 - You activate an control data replication across Regions.
 - Communication between Region uses AWS backbone network connections infrastructure
 
-<p align="center"><img src="img/DataCenterInAvailabilityZone.png"></p>
+<p align="center"><img src="img/CloudFoundations/DataCenterInAvailabilityZone.png"></p>
 
 AWS Regions, isolated for fault tolerance, contain multiple Availability Zones. Data stored in a Region isn't replicated outside it. Users choose Regions based on compliance and latency needs.
 
@@ -521,7 +521,7 @@ AWS provides a global network of 216 PoP locations
 - PoPs are used with Amazon CloudFront, a global content delivery network (CDN) that delivers content to end users with reduced latency.
 - Regional edge caches are used for content with infrequent access.
 
-<p align="center"><img src="img/PointOfPresence.png"></p>
+<p align="center"><img src="img/CloudFoundations/PointOfPresence.png"></p>
 
 AWS Point of Presence (PoP) serves users through Amazon CloudFront or Route 53. With 216 PoPs globally, including 205 edge locations and 11 Regional edge caches, it optimizes content delivery and DNS resolution, reducing latency. Regional edge caches complement CloudFront by storing less-accessed content, enhancing performance.
 
@@ -533,7 +533,7 @@ AWS Point of Presence (PoP) serves users through Amazon CloudFront or Route 53. 
 |Fault-tolerant|<ul><li>Continues operating properly in the presence of a failure</li><li>Includes built-in redundancy of components</li></ul>|
 |Highly available|<ul><li>High level of operational performance with reduced downtime.</li></ul>|
 
-<p align="center"><img src="img/AWSInfraFeatures.png"></p>
+<p align="center"><img src="img/CloudFoundations/AWSInfraFeatures.png"></p>
 
 AWS infrastructure revolves around Regions housing multiple isolated Availability Zones (AZs). Each AZ comprises data centers with redundant networking and infrastructure for fault tolerance, elasticity, scalability, and high availability, requiring minimal human intervention for operation.
 
