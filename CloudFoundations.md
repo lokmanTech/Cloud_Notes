@@ -537,6 +537,9 @@ AWS Point of Presence (PoP) serves users through Amazon CloudFront or Route 53. 
 
 AWS infrastructure revolves around Regions housing multiple isolated Availability Zones (AZs). Each AZ comprises data centers with redundant networking and infrastructure for fault tolerance, elasticity, scalability, and high availability, requiring minimal human intervention for operation.
 
+## <a id="ch.09"></a> ch. 09 - AWS Services and Service Categories
+------------------[to the top ↑](#top)------------------
+
 **AWS Service Categories**
 
 Top Categories and Products
