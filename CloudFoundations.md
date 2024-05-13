@@ -14,6 +14,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.07](#ch.07)| Fundamentals of AWS Pricing |
 |[ch.08](#ch.08)| AWS Infrastructure Overview |
 |[ch.09](#ch.09)| AWS Services and Service Categories |
+|[ch.09.1](#ch.09.1)| AWS Services and Service Categories [REVISION] |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -691,19 +692,50 @@ The `AWS Management Console` provides a web-based user interface for accessing y
 
 `AWS CloudTrail` tracks user activity and API usage.
 
-|**Analytics**|
-|:----------------------:|
-|Amazon Athena|
-|AWS Data Exchange|
-|Amazon EMR|
-|AWS Glue|
-|Amazon Kinesis|
-|Amazon Managed Streaming for Apache Kafka (Amazon MSK)|
-|Amazon OpenSearch Service|
-|Amazon QuickSight|
-|Amazon Redshift|
 
+## <a id="ch.09.1"></a> ch. 09.1 - AWS Services and Service Categories [REVISION]
+------------------[to the top ↑](#top)------------------
 
+|**Analytics**|**Description**|
+|:-----------:|:-------------:|
+|Amazon Athena|An interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL.| 
+|AWS Data Exchange|A service that makes it easy for AWS customers to exchange data in the cloud.|
+|Amazon Elastic MapReduce (Amazon EMR)|A managed service that simplifies the processing of large amounts of data using the Hadoop and Spark frameworks.|
+|AWS Glue|A serverless data integration service that makes it easy to discover, prepare, move, and integrate data from multiple sources.|
+|Amazon Kinesis|A service that collects, analyzes, and reports on data transmission in real time.|
+|Amazon Managed Streaming for Apache Kafka (Amazon MSK)|A fully managed service that enables you to build and run applications that use Apache Kafka to process streaming data.|
+|Amazon OpenSearch Service|A managed service that makes it easy to deploy, operate, and scale OpenSearch clusters in the AWS Cloud.|
+|Amazon QuickSight|A fully managed business intelligence service that delivers easy-to-understand insights to users.|
+|Amazon Redshift|A fully managed, petabyte-scale data warehouse service in the AWS Cloud.|
+
+|**Application Integration**|**Description**|
+|:-------------------------:|:-------------:|
+|Amazon EventBridge|A serverless event bus that uses events to connect application components together.|
+|Amazon Simple Notification Service (Amazon SNS)|A web service that coordinates and manages the delivery or sending of messages to subscribing endpoints or clients.|
+|Amazon Simple Queue Service (Amazon SQS)|A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.|
+|AWS Step Functions|A serverless workflow service for coordinating distributed applications and microservices.|
+
+|**Business Application**|**Description**|
+|:----------------------:|:-------------:|
+|Amazon Connect|A cloud-based omnichannel contact center service.|
+|Amazon Simple Email Service(Amazon SES)|An email platform for sending and receiving email using your own email addresses and domains.|
+
+|**Cloud Financial Management**|**Description**|
+|:----------------------------:|:-------------:|
+|AWS Billing Conductor|Customizes your billing data to match your business logic|
+|AWS Budgets|Tracks your costs and usage with custom budgets|
+|AWS Cost and Usage Report|Provides comprehensive AWS costs and usage over time|
+|AWS Marketplace|A digital catalog for finding, buying, deploying and managing third-party software, data, and services.|
+
+|**Compute**|**Description**|
+|:---------:|:-------------:|
+|AWS Batch| Runs batch computing workloads on the cloud.|
+|Amazon EC2| Provides resizable compute capacity in the cloud.|
+|AWS Elastic Beanstalk|Deploys and scales application on AWS|
+|Amazon Lightsail|Offers virtual private servers, storage, databases and networking.|
+|AWS Local Zones|Extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility.|
+|AWS Outposts|Extends AWS infrastructure, AWS services, APIs and tools to virtually any datacenter, co-location space or on-premises facility.|
+|Amazon Wavelength|Delivers single-digit millisecond latencies to mobile devices and end-users.|
 
 
 
