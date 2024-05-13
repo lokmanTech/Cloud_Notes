@@ -576,6 +576,143 @@ Top Categories and Products
 
 **`AWS Lambda`** gives you the ability to run code without provisioning or managing servers. You pay for only the compute time that you consume, so you won’t be charged when your code isn’t running.
 
+|**AWS Containers Services**|
+|:----------------------:|
+|Amazon Elastic Container Service (Amazon ECS)|
+|Amazon Elastic Container Registry (Amazon ECR)|
+|Amazon Elastic Kubernetes Service (Amazon EKS)|
+|Amazon Fargate|
+
+`Amazon Elastic Container Service (Amazon ECS)` is a highly scalable, high-performance container orchestration service that supports Docker containers.
+
+`Amazon Elastic Container Registry (Amazon ECR)` is a fully managed Docker container registry that facilitates storing, managing, and deploying Docker container images.
+
+`Amazon Elastic Kubernetes Service (Amazon EKS)` facilitates deploying, managing, and scaling containerized applications that use Kubernetes on AWS.
+
+`AWS Fargate` is a compute engine for Amazon ECS that you can use to run
+containers without managing servers or clusters.
+
+|**AWS Database Service**|
+|:----------------------:|
+|Amazon Relational Database Service (Amazon RDS)|
+|Amazon Aurora|
+|Amazon Redshift|
+|Amazon DynamoDB|
+
+`Amazon Relational Database Service (Amazon RDS)` facilitates setting up, operating, and scaling a relational database in the cloud. It provides resizable capacity while automating time-consuming administration tasks, such as hardware provisioning, database setup, patching, and backups.
+
+`Amazon Aurora` is a relational database that is compatible with MySQL and PostgreSQL. It is up to five times faster than standard MySQL databases and three times faster than standard PostgreSQL databases.
+
+`Amazon Redshift` gives you the ability to run analytic queries against petabytes of data that is stored locally in Amazon Redshift. You can also run queries directly against exabytes of data that are stored in Amazon S3. Amazon Redshift delivers fast performance at any scale.
+
+`Amazon DynamoDB` is a key-value and document database that delivers single-digit millisecond performance at any scale with built-in security, backup and restore, and in-memory caching.
+
+|**AWS Networking and Content Delivery**|
+|:----------------------:|
+|Amazon Virtual Private Cloud (Amazon VPC)|
+|Elastic Load Balancing|
+|Amazon CloudFront|
+|Amazon Transit Gateway|
+|Amazon Route 53|
+|AWS Direct Connect|
+|AWS Client VPN|
+
+`Amazon Virtual Private Cloud (Amazon VPC)` gives you the ability to provision logically isolated sections of the AWS Cloud. 
+
+`Elastic Load Balancing` automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions.
+
+`Amazon CloudFront` is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and application programming interfaces (APIs) to customers globally. It has low latency and high transfer speeds.
+
+`AWS Transit Gateway` is a service that customers can use to connect their virtual private clouds (VPCs) and their on-premises networks to a single gateway.
+
+`Amazon Route 53` is a scalable, cloud Domain Name System (DNS) web service. It is designed to give you a reliable way to route end users to internet applications. Route 53 translates names (like www.example.com) into the numeric IP addresses (like 192.0.2.1) that computers use to connect to each other.
+
+`AWS Direct Connect` provides a way to establish a dedicated private network connection from your data center or office to AWS. Using AWS Direct Connect can reduce network costs and increase bandwidth throughput.
+
+`AWS Client VPN` provides a secure private tunnel from your network or device to the AWS global network.
+
+|**AWS Security, Identity and Compliance Services**|
+|:----------------------:|
+|AWS Identity and Access Management (IAM)|
+|AWS Organizations|
+|Amazon Cognito|
+|AWS Artifact|
+|AWS Key Management Service (AWS KMS|
+|AWS Shield|
+
+`AWS Identity and Access Management (IAM)` gives you the ability to manage access to AWS services and resources securely. By using IAM, you can create and manage AWS users and groups. You can use IAM permissions to allow and deny user and group access to AWS resources.
+
+`AWS Organizations` permits you to restrict what services and actions are allowed in your accounts.
+
+`Amazon Cognito` gives you the ability to add user sign-up, sign-in, and access control to your web and mobile apps.
+
+`AWS Artifact` provides on-demand access to AWS security and compliance reports and select online agreements.
+
+`AWS Key Management Service (AWS KMS)` provides the ability to create and manage keys. You can use AWS KMS to control the use of encryption across a wide range of AWS services and in your applications.
+
+`AWS Shield` is a managed distributed denial of service (DDoS) protection service that safeguards applications running on AWS.
+
+|**AWS Cost Management**|
+|:----------------------:|
+|AWS Cost and Usage Report|
+|AWS Budgets|
+|AWS Cost Explorer|
+
+The `AWS Cost and Usage Report` contains the most comprehensive set of AWS cost and usage data available. It includes additional metadata about AWS services, pricing, and reservations.
+
+`AWS Budgets` provides the ability to set custom budgets that alert you when your costs or usage exceeds (or will likely exceed) your budgeted amount.
+
+`AWS Cost Explorer` has an easy-to-use interface that you can use to visualize, understand, and manage your AWS costs and usage over time.
+
+|**AWS Management and Governance**|
+|:----------------------:|
+|AWS Management Console|
+|AWS Config|
+|Amazon CloudWatch|
+|AWS Auto Scaling|
+|AWS Command Line Interface (AWS CLI)|
+|AWS Trusted Advisor|
+|AWS Well-Architected Tool|
+|AWS CloudTrail|
+
+The `AWS Management Console` provides a web-based user interface for accessing your AWS account.
+
+`AWS Config` provides a service that helps you track resource inventory and changes.
+
+`Amazon CloudWatch` gives you the ability to monitor resources and applications.
+
+`AWS Auto Scaling` provides features that you can use to scale multiple resources to meet demand.
+
+`AWS Command Line Interface (AWS CLI)` provides a unified tool to manage AWS services.
+
+`AWS Trusted Advisor` helps you optimize performance and security.
+
+`AWS Well-Architected Tool` provides help in reviewing and improving your workloads.
+
+`AWS CloudTrail` tracks user activity and API usage.
+
+|**Analytics**|
+|:----------------------:|
+|Amazon Athena|
+|AWS Data Exchange|
+|Amazon EMR|
+|AWS Glue|
+|Amazon Kinesis|
+|Amazon Managed Streaming for Apache Kafka (Amazon MSK)|
+|Amazon OpenSearch Service|
+|Amazon QuickSight|
+|Amazon Redshift|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
