@@ -744,6 +744,31 @@ The `AWS Management Console` provides a web-based user interface for accessing y
 |Amazon Elastic Container Service (Amazon ECS) |A highly scalable, high-performance container orchestration service that supports Docker containers.|
 |Amazon Elastic Kubernetes Service (Amazon EKS)| A managed service that makes it easy to run Kubernetes on AWS without needing to install and operate your own Kubernetes control plane.|
 
+|**Customer Engagement**|**Description**|
+|:---------------------:|:-------------:|
+|AWS Activate for Startups|A program that provides startups with free tools and resources to get started on AWS and grow their business.|
+|AWS IQ|Connects you to AWS Certified experts for hands-on help for your AWS projects.|
+|AWS Managed Service (Amazon AMS)|A service for managing operations of your AWS infrastructure.|
+|AWS Support| Provides a suite of resources, including proactive planning, advisory services, automation tools, communication channels, and 24/7 expert support.|
+
+|**Database**|**Description**|
+|:----------:|:-------------:|
+|Amazon Aurora| A relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases.|
+|Amazon DynamoDB|A key-value and document database that delivers single-digit millisecond performance at any scale.|
+|Amazon MemoryDB for Redis|A Redis-compatible, fully managed, in-memory database service built on reliable and highly available infrastructure managed by AWS.|
+|Amazon Neptune|A fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.|
+|Amazon RDS|Makes it easy to set up, operate, and scale a relational database in the cloud.|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
