@@ -922,8 +922,6 @@ Created by [Lokman Hakim](https://lokmanTech.github.io)
 
 *reference:* 
 
-*[AWS Documentation](https://docs.aws.amazon.com/)*
-
-*[AWS Certified Cloud Practitioner (CLF-02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)*
-
-*[AWS Certified Cloud Practitioner Webpage](https://aws.amazon.com/certification/certified-cloud-practitioner/)*
+- *[AWS Documentation](https://docs.aws.amazon.com/)*
+- *[AWS Certified Cloud Practitioner (CLF-02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)*
+- *[AWS Certified Cloud Practitioner Webpage](https://aws.amazon.com/certification/certified-cloud-practitioner/)*
