@@ -759,6 +759,85 @@ The `AWS Management Console` provides a web-based user interface for accessing y
 |Amazon Neptune|A fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.|
 |Amazon RDS|Makes it easy to set up, operate, and scale a relational database in the cloud.|
 
+|**Developer Tools**|**Description**|
+|:-----------------:|:-------------:|
+|AWS AppConfig|A service that enables you to create, manage, and quickly deploy application configurations.|
+|AWS CLI| A unified tool that allows you to manage and interact with AWS services using commands in your command-line shell.|
+|AWS Cloud9| A cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.|
+|AWS CodeArtifact| A fully managed artifact repository service that makes it easy for organizations of any size to securely store, publish, and share packages used in their software development process.|
+|AWS CodeBuild| A fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy.|
+|AWS CodeCommit| A fully managed source control service that hosts secure Git repositories.|
+|AWS CodeDeploy| A deployment service that automates application deployments to various compute services such as Amazon EC2 instances, on-premises instances, serverless Lambda functions, or Amazon ECS services|
+|AWS CodePipeline| A continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates.|
+|AWS CodeStar| A cloud-based service for creating, managing, and working with software development projects on AWS.|
+|AWS X-Ray| A service that collects data about requests that your application serves, and provides tools that you can use to view, filter, and gain insights into that data to identify issues and opportunities for optimization.|
+
+|**End User Computing**|**Description**|
+|:--------------------:|:-------------:|
+|Amazon AppStream 2.0| A fully managed, secure application streaming service that allows you to stream desktop applications from AWS to any device running a web browser.|
+|Amazon WorkSpaces| A managed, secure Desktop-as-a-Service (DaaS) solution that helps you provision either Windows or Linux desktops in just a few minutes.|
+|Amazon WorkSpaces Web| An on-demand, fully managed, Linux-based service designed to facilitate secure browser access to internal websites and software-as-a-service (SaaS) applications.|
+
+|**FrontEnd Web and Mobile**|**Description**|
+|:-------------------------:|:-------------:|
+|AWS Amplify| A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications, powered by AWS.|
+|AWS AppSync| A fully managed service that makes it easy to develop GraphQL APIs by handling the heavy lifting of securely connecting to data sources like AWS DynamoDB, Lambda, or any HTTP data source.|
+|AWS Device Farm| An application testing service that lets you improve the quality of your web and mobile apps by testing them across an extensive range of desktop browsers and real mobile devices.|
+
+|**Internet of Things (IoT)**|**Description**|
+|:--------------------------:|:-------------:|
+|AWS IoT Core| A managed cloud platform that lets connected devices easily and securely interact with cloud applications and other devices.|
+|AWS IoT Greengrass| An Internet of Things (IoT) open-source edge runtime and cloud service that helps you build, deploy, and manage IoT applications on your devices.|
+
+|**Machine Learning**|**Description**|
+|:------------------:|:-------------:|
+|Amazon Comprehend| A natural language processing (NLP) service that uses machine learning to find insights and relationships in text.|
+|Amazon Kendra| A highly accurate and easy-to-use enterprise search service that’s powered by machine learning.|
+|Amazon Lex| A service for building conversational interfaces into any application using voice and text.|
+|Amazon Polly| A service that turns text into lifelike speech, allowing you to create applications that talk, and build entirely new categories of speech-enabled products.
+|Amazon Rekognition| A service that makes it easy to add image and video analysis to your applications.|
+|Amazon SageMaker| A fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly.|
+|Amazon Textract| A service that automatically extracts text and data from scanned documents.|
+|Amazon Transcribe| A service that makes it easy for developers to add speech-to-text capability to their applications.|
+|Amazon Translate| A neural machine translation service for translating text to and from languages.|
+
+|**Management and Governance**|**Description**|
+|:---------------------------:|:-------------:|
+|AWS Auto Scaling| A service that monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost.|
+|AWS CloudFormation| A service that helps you model and set up your AWS resources so you can spend less time managing those resources and more time focusing on your applications that run in AWS.|
+|AWS CloudTrail| A service that helps you enable governance, compliance, operational auditing, and risk auditing of your AWS account. Actions taken by a user, role, or an AWS service are recorded as events in CloudTrail.|
+|Amazon CloudWatch| A service that monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real-time. You can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications.|
+|AWS Compute Optimizer| A machine learning-based service designed to analyze and recommend optimal AWS resources for your workloads. By examining historical utilization metrics, it identifies the best configurations for Amazon EC2 instances, Auto Scaling groups, Amazon EBS volumes, and AWS Lambda functions.|
+|AWS Config| A service that provides a detailed view of the configuration of AWS resources in your AWS account. This includes how the resources are related to one another and how they were configured in the past so that you can see how the configurations and relationships change over time.|
+|AWS Control Tower| A service that offers a straightforward way to set up and govern a secure, compliant, multi-account AWS environment, following prescriptive best practices.|
+|AWS Health Dashboard| An interactive console that gives a real-time overview of the operational status of all your AWS resources. It provides critical information about events that can affect your AWS services, including scheduled maintenance and ongoing operational issues.|
+|AWS Launch Wizard| A service that guides you through the sizing, configuration, and deployment of Microsoft SQL Server applications on Amazon, following the Amazon Well-Architected Framework. Amazon Launch Wizard supports both single instance and high availability (HA) application deployments.|
+|AWS License Manager| A service that makes it easier for you to manage your software licenses from software vendors (for example, Microsoft, SAP, Oracle, and IBM) centrally across AWS and your on-premises environments.|
+|AWS Management Console| A web-based system that allows AWS users to manage different AWS services from a central web interface. Using the AWS Management Console, you can access and configure various AWS services and manage the infrastructure components.|
+|AWS Organizations| An AWS account management service that lets users centrally manage and control groups of AWS accounts, and the workflows and policies that apply to them.
+|AWS Resource Groups and Tag Editor| AWS Resource Groups make it easy to group your AWS resources using the tags that are assigned to them. You can group resources that share one or more tags. With Tag Editor, you can add tags to—or edit or delete tags of—multiple resources at once.|
+|AWS Service Catalog| A service that enables organizations to create and manage catalogs of IT services that are approved for AWS. These IT services can include everything from virtual machine images, servers, software, and databases to complete multi-tier application architectures.|
+|AWS Systems Manager| A service in the cloud that provides a consistent process for measuring your architecture using AWS best practices. AWS Systems Manager helps you throughout the product lifecycle by assisting with documenting the decisions you make, providing recommendations for improving your workload based on best practices, and guiding you in making your workloads more reliable, secure, efficient, and cost-effective.|
+|AWS Trusted Advisor| A service that provides a set of best practice checks and recommendations to help you reduce costs, increase availability and performance, and improve security. Trusted Advisor inspects your resources across all AWS Regions and presents a summary of check results.|
+|AWS Well-Architected Tool| A service in the cloud that provides a consistent process for measuring your architecture using AWS best practices. AWS Well-Architected Tool helps you throughout the product lifecycle by assisting with documenting the decisions you make, providing recommendations for improving your workload based on best practices, and guiding you in making your workloads more reliable, secure, efficient, and cost-effective.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
