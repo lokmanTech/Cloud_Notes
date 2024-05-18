@@ -821,6 +821,68 @@ The `AWS Management Console` provides a web-based user interface for accessing y
 |AWS Trusted Advisor| A service that provides a set of best practice checks and recommendations to help you reduce costs, increase availability and performance, and improve security. Trusted Advisor inspects your resources across all AWS Regions and presents a summary of check results.|
 |AWS Well-Architected Tool| A service in the cloud that provides a consistent process for measuring your architecture using AWS best practices. AWS Well-Architected Tool helps you throughout the product lifecycle by assisting with documenting the decisions you make, providing recommendations for improving your workload based on best practices, and guiding you in making your workloads more reliable, secure, efficient, and cost-effective.|
 
+|**Migration and Transfer**|**Description**|
+|:------------------------:|:-------------:|
+|AWS Application Discovery Service| A service that collects usage, behavior, and configuration data from on-premises servers to help plan your migration to AWS.|
+|AWS Application Migration Service| A highly automated lift-and-shift solution that simplifies, expedites, and reduces the cost of migrating applications to AWS.|
+|AWS Database Migration Service (AWS DMS)| A web service that can be used to migrate data from different source data stores to a target data store.|
+|AWS Migration Hub| Provides a single place to discover your existing servers, plan migrations, and track the status of each application migration.|
+|AWS Schema Conversion Tool (AWS SCT)| A tool that automatically converts the source database schema and most custom code to a format that’s compatible with the target database.|
+|AWS Snow Family| A group of devices that transport data in and out of AWS. These devices can transfer up to exabytes of data.|
+|AWS Transfer Family| A secure transfer service that enables you to transfer files into and out of AWS storage services.|
+
+|**Networking and Content Delivery**|**Description**|
+|:---------------------------------:|:-------------:|
+|Amazon API Gateway| A fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.|
+|Amazon CloudFront| A content delivery network (CDN) service that helps distribute your static and dynamic content quickly and reliably with high speed performance, security, and developer ease-of-use.|
+|AWS Direct Connect| A cloud service solution that provides a more secure, consistent network experience compared to internet-based connections by establishing a private, dedicated network connection from your premises to AWS.|
+|AWS Global Accelerator| Improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions.|
+|Amazon Route 53| A scalable and highly available Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost-effective way to route end users to Internet applications.|
+|Amazon VPC:|Let's you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.|
+|AWS VPN| Extends your on-premises networks to the cloud and securely access them from anywhere.|
+
+|**Security, Identity, and Compliance**|**Description**|
+|:------------------------------------:|:-------------:|
+|AWS Artifact| A service that provides on-demand access to AWS’ security and compliance documents and select online agreements.|
+|AWS Audit Manager| A service that helps organizations continuously audit their AWS usage to ensure compliance with internal policies and external regulations.|
+|AWS Certificate Manager (ACM)| A service that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services and your internal connected resources.|
+|AWS CloudHSM| A cloud-based hardware security module that provides secure cryptographic key storage and operations within a tamper-resistant hardware device.|
+|Amazon Cognito| A service that allows AWS customers to manage user access and permissions for their accounts, as well as available APIs/services within AWS.|
+|Amazon Detective| A security monitoring service that analyzes and processes Foundational data sources, such as Amazon CloudTrail management events, Amazon CloudTrail event logs, VPC flow logs (from Amazon EC2 instances), and DNS logs.|
+|AWS Directory Service| A web service that helps you securely control access to AWS resources. With IAM, you can centrally manage permissions that control which AWS resources users can access.|
+AWS Firewall Manager| A security management service that allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations.|
+|Amazon GuardDuty| A threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation.|
+|AWS Identity and Access Management (IAM)| A service that allows AWS customers to manage user access and permissions for their accounts, as well as available APIs/services within AWS.|
+|AWS IAM Identity Center (AWS Single Sign-On)| A service that makes it easy to centrally manage SSO access to multiple AWS accounts and business applications.|
+|Amazon Inspector| An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.|
+|AWS Key Management Service (AWS KMS)| A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.|
+|Amazon Macie| A fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS.|
+|AWS Network Firewall| A managed service that makes it easy to deploy essential network protections for all of your Amazon Virtual Private Clouds (VPCs).|
+|AWS Resource Access Manager (AWS RAM)| A service that enables you to easily and securely share AWS resources with any AWS account or within your AWS Organization.|
+|AWS Secrets Manager| Protects access to your applications, services, and IT resources, without the upfront investment and on-going maintenance costs of operating your own infrastructure.|
+|AWS Security Hub| Gives you a comprehensive view of your high-priority security alerts and compliance status across AWS accounts.|
+|AWS Shield| A managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS.|
+|AWS WAF| A web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources.|
+
+|**Serverless**|**Description**|
+|:------------:|:-------------:|
+|AWS Fargate| A serverless compute engine for containers that works with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).|
+|AWS Lambda| A compute service that lets you run code without provisioning or managing servers. AWS Lambda executes your code only when needed and scales automatically.|
+
+|**Storage**|**Description**|
+|:---------:|:-------------:|
+|AWS Backup| A fully managed backup service that makes it easy to centralize and automate the backup of data across AWS services.|
+|Amazon Elastic Block Store (Amazon EBS)| Provides block-level storage volumes for use with Amazon EC2 instances. EBS volumes are highly available and reliable storage volumes that can be attached to any running instance and used like a hard drive.|
+|Amazon Elastic File System (Amazon EFS)| Provides a simple, scalable, fully managed elastic NFS file system for use with AWS Cloud services and on-premises resources.|
+|AWS Elastic Disaster Recovery (AWS DRS)| A new service that minimizes downtime and data loss with fast, reliable recovery of on-premises and cloud-based applications using affordable storage, minimal compute, and point-in-time recovery.|
+|Amazon FSx| Provides fully managed third-party file systems with the native compatibility and feature sets for workloads such as Microsoft Windows–based storage, high-performance computing, machine learning, and electronic design automation.|
+|Amazon S3| An object storage service that offers industry-leading scalability, data availability, security, and performance.|
+|Amazon S3 Glacier and S3 Glacier Deep Archive| A secure, durable, and extremely low-cost Amazon S3 cloud storage classes for data archiving and long-term backup.|
+|AWS Storage Gateway| hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage.|
+
+
+
+
 
 
 
@@ -857,5 +919,11 @@ The `AWS Management Console` provides a web-based user interface for accessing y
 
 
 Created by [Lokman Hakim](https://lokmanTech.github.io)
-<br>
-*reference: [AWS Documentation](https://docs.aws.amazon.com/)*
+
+*reference:* 
+
+*[AWS Documentation](https://docs.aws.amazon.com/)*
+
+*[AWS Certified Cloud Practitioner (CLF-02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)*
+
+*[AWS Certified Cloud Practitioner Webpage](https://aws.amazon.com/certification/certified-cloud-practitioner/)*
