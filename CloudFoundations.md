@@ -15,6 +15,7 @@ Dive into foundational knowledge spanning cloud, data science and web developmen
 |[ch.08](#ch.08)| AWS Infrastructure Overview |
 |[ch.09](#ch.09)| AWS Services and Service Categories |
 |[ch.09.1](#ch.09.1)| AWS Services and Service Categories [REVISION] |
+|[ch.10](#ch.10)| AWS Shared Responsibility Model |
 
 ## <a id="ch.01"></a> ch. 01 - Introduction to Computing 
 ------------------[to the top ↑](#top)------------------
@@ -880,6 +881,12 @@ AWS Firewall Manager| A security management service that allows you to centrally
 |Amazon S3 Glacier and S3 Glacier Deep Archive| A secure, durable, and extremely low-cost Amazon S3 cloud storage classes for data archiving and long-term backup.|
 |AWS Storage Gateway| hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage.|
 
+## <a id="ch.10"></a> ch. 10 - AWS Shared Responsibility Model
+------------------[to the top ↑](#top)------------------
+
+<p align="center"><img src="img/CloudFoundations/SharedResponsibilityModel.png"></p>
+
+Security is the highest priority at AWS, which offers a scalable, high-availability cloud environment and tools for various applications. AWS employs a shared responsibility model for customer data security.
 
 
 
