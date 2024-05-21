@@ -888,8 +888,27 @@ AWS Firewall Manager| A security management service that allows you to centrally
 
 Security is the highest priority at AWS, which offers a scalable, high-availability cloud environment and tools for various applications. AWS employs a shared responsibility model for customer data security.
 
+<p align="center"><img src="img/CloudFoundations/AWSResponsibility.png"></p>
 
+*Security of the cloud*
+• Physical security of data centers: Controlled, need-based access.
+• Hardware and software infrastructure: Storage decommissioning, host operating system (OS) access logging, and auditing
+• Network infrastructure: Intrusion detection
+• Virtualization infrastructure: Instance isolation
 
+AWS secures the underlying infrastructure of its cloud services, including data centers, hardware, software, and network.
+
+<p align="center"><img src="img/CloudFoundations/CustomerSecurityResponsibility.png"></p>
+
+**Security in the cloud**
+• Amazon Elastic Compute Cloud (Amazon EC2) instance OS. Including patching and maintenance
+• Applications: Passwords, role-based access, and others
+• Security group configuration
+• OS-based or host-based firewalls: Including intrusion detection or prevention systems
+• Network configurations
+• Account management: Login and permission settings for each user
+
+Customers secure their data, applications, and access in the cloud while AWS secures the infrastructure.
 
 
 
