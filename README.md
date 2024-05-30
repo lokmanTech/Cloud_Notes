@@ -4,7 +4,7 @@ CloudNotes: Your go-to for cloud computing. Tutorials, guides, and community—l
 ### Table of content 
 |chapter|Description|
 |:-----:|:----------|
-|[ch. 01](CloudFoundations.ipynb)| Cloud Foundations|
+|[ch. 01](CloudFoundations.md)| Cloud Foundations|
 |[ch. 02](Networking.md)| Networking |
 |[ch. 03](Security.md)| Security |
 |[ch. 04](Databases.md)| Databases |
