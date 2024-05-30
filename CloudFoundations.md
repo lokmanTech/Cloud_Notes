@@ -910,6 +910,32 @@ AWS secures the underlying infrastructure of its cloud services, including data 
 
 Customers secure their data, applications, and access in the cloud while AWS secures the infrastructure.
 
+**Service characteristic and security responsibility
+
+Infrastructure as a service (Iaas)
+
+- The customer has more flexibility over configuring networking and storage settings
+- The customer is responsible for managing more aspects of the security
+- The customer configures the access controls
+
+Platform as a service (PaaS)
+
+- The customer does not need to manage the underlying infrastructure
+- AWS handles the operating system, database pathcing, firewall configuration, and disaster recovery (DR)
+- The customer can focus on managing code or data.
+
+Infrastructure as a Service (IaaS) provides basic cloud IT building blocks like networking, virtual computers, and storage, requiring customer management. Platform as a Service (PaaS) reduces infrastructure management, focusing on application deployment.
+
+Software as a service (SaaS)
+
+- Software is centrally hosted
+- It is licensed on a subcription model or pay-as-you-go basis
+- Services are typically accessed through a web browser, mobile app, or application programming interface (API)
+- Customers do not need to manage the infrastructure that supports the service
+- AWS example: AWS Trusted Advisor, AWS Shield or Amazon Chime
+
+Software as a Service (SaaS) offers centrally hosted software accessible via browsers, apps, or APIs, with subscription-based models. AWS Trusted Advisor, AWS Shield, and Amazon Chime exemplify SaaS offerings, reducing infrastructure management.
+
 
 
 
